@@ -2,7 +2,7 @@
 	multiline comment For Test-task1
 */
 
-Select TColumn FROM Table WHERE X<>0 ;
+SELECT Column FROM Table1 WHERE Some<>0 ;
 
 -- 2
 

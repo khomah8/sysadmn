@@ -3,7 +3,7 @@
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 
 
-## search filtered 
+## [init] search filtered 
 
 https://webapplicationmonitoring.net/
 

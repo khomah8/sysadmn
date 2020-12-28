@@ -17,12 +17,13 @@ https://www.nagios.com/solutions/web-application-monitoring/
 
 https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
 
-## [select APM-related from search ] 
+## [APM-related comparision search ] 
 https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics 
 
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
-2. https://crozdesk.com/it/application-performance-monitoring-apm-software { https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic }
+2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
 3. 
+4. 
 
 ## cornerstone/ key terms : 
 - APM as application {performance / managemen} monitoring group of tools 
@@ -38,3 +39,24 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 - [system] health issues 
 
 - New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
+
+# scripting languages [applicable to SQL] 
+
+* choice of https://en.wikipedia.org/wiki/Scripting_language
+  - UNIX shell [bash, csh, sh ] and Windows [PowerShell, VBScript ]
+  - Perl (5 and 6)
+  - JavaScript
+  - Python
+  - rexx
+  - PHP
+  - ruby
+  - XSLT
+  - Tcl
+  - 
+
+* comparisions 
+  - https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/
+  - https://kinsta.com/blog/scripting-languages/ {top 13 of }
+  - https://careerkarma.com/blog/what-is-a-scripting-language/
+  - 
+ 

@@ -25,7 +25,7 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 3. 
 
 ## key/buzz words : 
-- APM as application {performance / managemen} monitoring 
+- APM as application {performance / managemen} monitoring group of tools 
 
 - measuring-of : 1) user eXperience; 2) resources usage; 
 
@@ -34,3 +34,5 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 - score index (apdex IDX as [ SAtisfied T ; TOlerating 1' < T < 4': FRustrated T > 4' ] for new reLiCt; )
 
 - [index] baseline 
+
+- [system] health issues 

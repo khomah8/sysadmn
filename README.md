@@ -25,6 +25,6 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics&
 
 - measuring of : 1) user eXperience; 2) resources usage; 
 
-- score index (apdex IDX as [ SAtisfied ; TOlerating : FRustrated ] for new reLiCt )
+- score index (apdex IDX as [ SAtisfied T ; TOlerating 1' < T < 4': FRustrated T > 4' ] for new reLiCt; )
 
 - baseline 

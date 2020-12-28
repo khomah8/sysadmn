@@ -3,7 +3,7 @@
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 
 
-## [init] search filtered 
+## [init search products/tools filtered ]
 
 https://webapplicationmonitoring.net/
 
@@ -17,8 +17,8 @@ https://www.nagios.com/solutions/web-application-monitoring/
 
 https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
 
-[select from search] 
+## [select APM-related from search ] 
 https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics&
 
-key/buzz words : 
+## key/buzz words : 
 - APM application performance monitoring 

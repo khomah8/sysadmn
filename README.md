@@ -24,7 +24,7 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 2. https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic
 3. 
 
-## key/buzz words : 
+## cornerstone/ key terms : 
 - APM as application {performance / managemen} monitoring group of tools 
 
 - measuring-of : 1) user eXperience; 2) resources usage; 
@@ -36,3 +36,5 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 - [index] baseline 
 
 - [system] health issues 
+
+- New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 

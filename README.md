@@ -16,3 +16,6 @@ https://sentry.io/for/performance/
 https://www.nagios.com/solutions/web-application-monitoring/
 
 https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
+
+[select from search] 
+https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics&

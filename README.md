@@ -45,24 +45,22 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 * choice of https://en.wikipedia.org/wiki/Scripting_language
 
 - server-side 
-  - Perl (5 and 6)
+  - Perl (5 and 6 )
   - PHP
   - Python
   - rexx
+  - Ruby (Ruby on Rails ) 
+  - Tcl
 
 - client-side
-  - UNIX shell [bash, csh, sh ] and Windows [PowerShell, VBScript ]
-  - JavaScript
-  - ruby
-
-- quasi-
-  - Tcl
-  - XSLT
-  - 
+  - JavaScript, CoffeScript
+  - UNIX shell [bash, csh, sh ] 
+  - Windows [PowerShell, VBScript ]
+  - XSLT [XML transformation ]
 
 * comparisions 
   - https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/
   - https://kinsta.com/blog/scripting-languages/ {top 13 of }
   - https://careerkarma.com/blog/what-is-a-scripting-language/
-  - https://www.computerhope.com/jargon/s/script.htm
+  - https://www.computerhope.com/jargon/s/script.htm { }
  

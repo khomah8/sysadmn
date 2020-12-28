@@ -43,15 +43,21 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 # scripting languages [applicable to SQL] 
 
 * choice of https://en.wikipedia.org/wiki/Scripting_language
-  - UNIX shell [bash, csh, sh ] and Windows [PowerShell, VBScript ]
+
+- server-side 
   - Perl (5 and 6)
-  - JavaScript
+  - PHP
   - Python
   - rexx
-  - PHP
+
+- client-side
+  - UNIX shell [bash, csh, sh ] and Windows [PowerShell, VBScript ]
+  - JavaScript
   - ruby
-  - XSLT
+
+- quasi-
   - Tcl
+  - XSLT
   - 
 
 * comparisions 

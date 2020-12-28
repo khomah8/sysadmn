@@ -20,6 +20,10 @@ https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
 ## [select APM-related from search ] 
 https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics&
 
+1. https://coralogix.com/log-analytics-blog/apm-comparison/
+2. https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic
+3. 
+
 ## key/buzz words : 
 - APM as application {performance / managemen} monitoring 
 

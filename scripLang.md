@@ -27,5 +27,5 @@ capable of being executed without being compiled. `
   - https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/
   - https://kinsta.com/blog/scripting-languages/ {top 13 of }
   - https://careerkarma.com/blog/what-is-a-scripting-language/
-  - https://www.computerhope.com/jargon/s/script.htm { }
+  - 
  

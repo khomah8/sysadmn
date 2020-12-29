@@ -9,8 +9,6 @@ capable of being executed without being compiled. `
  Scripting languages are often interpreted, rather than compiled.`
 [ wiki](https://en.wikipedia.org/wiki/Scripting_language)
 
-* choice of https://en.wikipedia.org/wiki/Scripting_language
-
 - server-side 
   - Perl (5 and 6 )
   - PHP

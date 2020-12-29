@@ -12,7 +12,7 @@ capable of being executed without being compiled. `
 - server-side 
   - Perl (5 and 6 )
   - PHP
-  - Python
+  - Python https://en.wikipedia.org/wiki/Python_(programming_language)
   - rexx
   - Ruby (Ruby on Rails ) 
   - Tcl

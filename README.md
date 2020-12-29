@@ -40,6 +40,9 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 - New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
 
+- Root Cause analysis
+
+
 # scripting languages [applicable to SQL] 
 
 * choice of https://en.wikipedia.org/wiki/Scripting_language

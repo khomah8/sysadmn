@@ -23,7 +23,6 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
 3. 
-4. 
 
 ## cornerstone/ key terms : 
 - APM as application {performance / managemen} monitoring group of tools 
@@ -42,32 +41,4 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 - Root Cause analysis
 
-
-# scripting languages [applicable to SQL] 
-`
-script or scripting language - is a computer language with a series of commands within a file 
-capable of being executed without being compiled. 
-`
-
-* choice of https://en.wikipedia.org/wiki/Scripting_language
-
-- server-side 
-  - Perl (5 and 6 )
-  - PHP
-  - Python
-  - rexx
-  - Ruby (Ruby on Rails ) 
-  - Tcl
-
-- client-side
-  - JavaScript, CoffeScript
-  - UNIX shell [bash, csh, sh ] 
-  - Windows [PowerShell, VBScript ]
-  - XSLT [XML transformation ]
-
-* comparisions 
-  - https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/
-  - https://kinsta.com/blog/scripting-languages/ {top 13 of }
-  - https://careerkarma.com/blog/what-is-a-scripting-language/
-  - https://www.computerhope.com/jargon/s/script.htm { }
- 
+- 

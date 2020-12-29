@@ -23,7 +23,6 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
 3. 
-4. 
 
 ## cornerstone/ key terms : 
 - APM as application {performance / managemen} monitoring group of tools 

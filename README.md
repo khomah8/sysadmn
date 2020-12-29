@@ -44,6 +44,10 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 
 # scripting languages [applicable to SQL] 
+`
+script or scripting language - is a computer language with a series of commands within a file 
+capable of being executed without being compiled. 
+`
 
 * choice of https://en.wikipedia.org/wiki/Scripting_language
 

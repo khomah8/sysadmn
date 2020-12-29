@@ -1,5 +1,5 @@
 # as script tool and more 
 
-learn it
+learn it.....
 
-try collections as https://github.com/vinta/awesome-python 
+then - try collections as https://github.com/vinta/awesome-python 

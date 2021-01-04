@@ -26,3 +26,8 @@ print(aw.strip('3'))  # returns "Hello, World!" -- removes any '3' from the begi
 print(a, '/', a.replace("H", "Jo"))
 
 print(a.split(" "))  # returns ['Hello,', ' World!']
+
+# takes the passed arguments, formats them, and places them in the string where the placeholders {} are 
+age = 36
+txt = "My name is John, and I am {}"
+print(txt.format(age))

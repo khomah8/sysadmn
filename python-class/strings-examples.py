@@ -32,3 +32,9 @@ age = 36
 name = 'John'
 txt = "My name is {1}, and I am {0}"
 print(txt.format(name, age))
+
+# list of string methods  https://www.w3schools.com/python/python_strings_methods.asp
+# like 
+txt = "I love apples, apple are my favorite fruit"
+x = txt.count("apple")
+print(x)

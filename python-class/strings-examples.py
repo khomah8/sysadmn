@@ -30,5 +30,5 @@ print(a.split(" "))  # returns ['Hello,', ' World!']
 # takes the passed arguments, formats them, and places them in the string where the placeholders {} are 
 age = 36
 name = 'John'
-txt = "My name is {}, and I am {}"
+txt = "My name is {1}, and I am {0}"
 print(txt.format(name, age))

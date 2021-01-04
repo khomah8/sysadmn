@@ -3,7 +3,7 @@
 print("Hello")
 print('Hello')
 
-a = "Hello"
+a = "Hello, World"
 print(a)
 
 abb = """Lorem ipsum dolor sit amet,
@@ -20,5 +20,9 @@ bb = "H e l l o,d e a r W o r l d !"
 print(bb[::2])
 
 # try on  https://www.w3schools.com/python/trypython.asp?filename=demo_string_replace
+aw = "333Hello, World333"
+print(aw.strip('3'))  # returns "Hello, World!" -- removes any '3' from the beginning or the end 
+
 print(a, '/', a.replace("H", "Jo"))
+
 print(a.split(" "))  # returns ['Hello,', ' World!']

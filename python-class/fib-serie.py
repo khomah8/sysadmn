@@ -7,6 +7,7 @@ while a < 10:
 
 """
 output by Python Shell as Chrome extension 
+>>> a, b = 0, 1 
 >>> while a < 10:
     print(a)
     a, b = b, a+b

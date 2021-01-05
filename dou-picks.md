@@ -8,5 +8,6 @@ it's time-to-learn :
 - Jira  https://www.atlassian.com/software/jira/guides/getting-started/overview 
   - [planning, [capacity, [dependencies, [releases, 
   - conflicts, delays, issues, constraints, 
+  - backlog, user-story, epics, 
 
 - 

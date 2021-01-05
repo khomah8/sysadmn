@@ -14,8 +14,8 @@ print(thislist)
 
 """
 Collections (Arrays) : are four collection data types in the Python programming language:
-- List -- is a collection which is ordered and changeable. Allows duplicate members.
-- Tuple -- is a collection which is ordered and unchangeable. Allows duplicate members.
-- Set -- is a collection which is unordered and unindexed. No duplicate members.
-- Dictionary -- is a collection which is unordered and changeable. No duplicate members.
+- List -- is __ordered and __changeable. Allows __duplicate members.
+- Tuple -- is __ordered and ~~unchangeable. Allows __duplicate members.
+- Set -- is ~~unordered and ~~unindexed. No ~~duplicate members.
+- Dictionary -- is ~~unordered and __changeable. No ~~duplicate members.
 """

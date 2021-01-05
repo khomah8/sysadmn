@@ -19,3 +19,6 @@ Collections (Arrays) : are four collection data types in the Python programming 
 - Set -- is ~~unordered and ~~unindexed. No ~~duplicate members.
 - Dictionary -- is ~~unordered and __changeable. No ~~duplicate members.
 """
+
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[2:5])

@@ -21,4 +21,12 @@ Collections (Arrays) : are four collection data types in the Python programming 
 """
 
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(thislist[3:])
+print(thislist[3:-1])
+
+# checking if item is present 
+thislist = ["apple", "banana", "cherry"]
+c = "orange"
+if c in thislist:
+  print("Yes, it in the fruits list")
+else: 
+  print("No, it is not in the fruits list")

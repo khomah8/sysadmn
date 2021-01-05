@@ -20,7 +20,12 @@ print(abb)
 #looks like this 
 # ''' 
 
+for x in "banana":
+  print(x)
+# printing string as letter-by-letter 
+
 # try on  https://www.w3schools.com/python/trypython.asp?filename=demo_string_slice_start
+
 print(abb[:4])
 print(abb[5:])
 
@@ -29,6 +34,7 @@ print(bb[::2])
 # output is quite interesting 
 
 # try on  https://www.w3schools.com/python/trypython.asp?filename=demo_string_replace
+
 aw = "333Hello, World333"
 print(aw.strip('3'))  # returns "Hello, World!" -- removes any '3' from the beginning or the end 
 

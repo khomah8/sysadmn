@@ -21,4 +21,4 @@ Collections (Arrays) : are four collection data types in the Python programming 
 """
 
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(thislist[2:5])
+print(thislist[3:])

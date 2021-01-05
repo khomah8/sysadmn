@@ -19,3 +19,5 @@ print(bool(y))
 # https://www.w3schools.com/python/python_operators.asp
 
 print(bool(5 != 7))
+
+# https://www.w3schools.com/python/trypython.asp?filename=demo_booleans6

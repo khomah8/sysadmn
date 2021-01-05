@@ -22,4 +22,4 @@ while i < 6:
   if i == 3 or i== 5:
     continue
   print(i)
-# conditional skip some loop 
+# conditional skip some loop cycle 

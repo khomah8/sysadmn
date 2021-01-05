@@ -12,4 +12,5 @@ bool(123)
 bool(["apple", "cherry", "banana"])
 
 # comparision https://www.w3schools.com/python/python_operators.asp
-print(x != y)
+
+print(bool(5 != 7))

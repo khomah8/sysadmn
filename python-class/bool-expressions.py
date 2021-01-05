@@ -1,4 +1,4 @@
-# https://www.w3schools.com/python/python_booleans.asp
+#  https://www.w3schools.com/python/python_booleans.asp
 
 '''
 Almost any value is evaluated to True if it has some sort of content.
@@ -11,6 +11,11 @@ bool("abc")
 bool(123)
 bool(["apple", "cherry", "banana"])
 
-# comparision https://www.w3schools.com/python/python_operators.asp
+x = "Hello"
+y = 15
+print(bool(x))
+print(bool(y))
+
+# https://www.w3schools.com/python/python_operators.asp
 
 print(bool(5 != 7))

@@ -27,6 +27,6 @@ print(thislist[3:-1])
 thislist = ["apple", "banana", "cherry"]
 c = "orange"
 if c in thislist:
-  print("Yes, it in the fruits list")
+  print("Yes," , c , "is in the fruits list")
 else: 
-  print("No, it is not in the fruits list")
+  print("No," , c , "is not in the fruits list")

@@ -14,12 +14,12 @@ while i < 6:
   if i == 3:
     break
   i += 1
-# out of loop 
-  
+# get out of loop 
+
 i = 0
 while i < 6:
   i += 1
-  if i == 3:
+  if i == 3 or i== 5:
     continue
   print(i)
-# skip some loop 
+# conditional skip some loop 

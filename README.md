@@ -48,14 +48,18 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 https://www.google.com/search?q=SPLUNK%2C+Logz.io%2C+Logstash 
 
-ELK Stack was a collection of three **open-source products** — **E**lasticsearch, **L**ogstash, and **K**ibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four legged project and led to a renaming of the stack as the **Elastic Stack**.
+> ELK Stack was a collection of three **open-source products** — **E**lasticsearch, **L**ogstash, and **K**ibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four legged project and led to a renaming of the stack as the **Elastic Stack**.
 
-[**Elasticsearch**](https://logz.io/tag/elasticsearch/) is NoSQL database that uses the _Lucene search engine_. [**Logstash**](https://logz.io/tag/logstash/) is a data processing and transportation pipeline used to populate Elasticsearch with the data (though also it supports other destinations including Graphite, Kafka, Nagios and RabbitMQ). [**Kibana**](https://logz.io/tag/kibana/) is a dashboard that works on top of Elasticsearch. 
+> [**Elasticsearch**](https://logz.io/tag/elasticsearch/) is NoSQL database that uses the _Lucene search engine_. [**Logstash**](https://logz.io/tag/logstash/) is a data processing and transportation pipeline used to populate Elasticsearch with the data (though also it supports other destinations including Graphite, Kafka, Nagios and RabbitMQ). [**Kibana**](https://logz.io/tag/kibana/) is a dashboard that works on top of Elasticsearch. 
 
-There are many varieties of ELK:
+![small-size ELK arch](https://logz.io/wp-content/uploads/2018/08/image21-1024x328.png)
+
+> There are many varieties of ELK:
 - The open-source ELK Stack platform ([on Elastic](https://www.elastic.co/webinars/introduction-elk-stack))
 - [Hosted Elasticsearch](https://aws.amazon.com/elasticsearch-service/) (AWS)
 - AI-powered ELK on an enterprise-grade platform ([on Logz.io](https://logz.io/platform/))
+
+![more complex ELK arch](https://logz.io/wp-content/uploads/2018/08/image6-1024x422.png) 
 
 **ELK Stack** provides role-based security as a _separate paid tool_. **Splunk and managed-ELK services** offer _user management out of the box with user auditing included_.
 

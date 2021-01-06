@@ -2,8 +2,7 @@
 
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 
-
-## [init search products/tools filtered ]
+### [search hits of products/tools]
 
 https://webapplicationmonitoring.net/
 
@@ -17,14 +16,14 @@ https://www.nagios.com/solutions/web-application-monitoring/
 
 https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
 
-## [APM-related comparision search ] 
+## [APM-related comparison search] 
 https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics 
 
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
 3. 
 
-## cornerstone/ key terms : 
+### cornerstone/ key terms : 
 - APM as application {performance / managemen} monitoring group of tools 
 
 - measuring-of : 1) user eXperience; 2) resources usage; 
@@ -41,7 +40,8 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 - Root Cause analysis
 
-- 
 
-## centralized logs solutions (SPLUNK, Logz.IO, Logstash, etc.)
+## [centralized logs solutions] 
+(SPLUNK, Logz.IO, Logstash, etc.)
+
 https://www.google.com/search?q=SPLUNK%2C+Logz.IO%2C+Logstash 

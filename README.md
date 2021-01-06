@@ -49,12 +49,20 @@ ELK Stack was a collection of three **open-source products** — **E**lasticsear
 
 [**Elasticsearch**](https://logz.io/tag/elasticsearch/) is NoSQL database that uses the _Lucene search engine_. [**Logstash**](https://logz.io/tag/logstash/) is a data processing and transportation pipeline used to populate Elasticsearch with the data (though also it supports other destinations including Graphite, Kafka, Nagios and RabbitMQ). [**Kibana**](https://logz.io/tag/kibana/) is a dashboard that works on top of Elasticsearch. 
 
-* [SPLUNK](https://www.splunk.com)  { forwarder --> indexer --> search head ; uses its own [Splunk Search Processing Language (SPL)](https://www.splunk.com/en_us/resources/search-processing-language.html) which supports the search pipeline - consecutive commands are chained together using a pipe character }
-* [Logz.io](https://logz.io)  { as platform for ELK }
-* Logstash https://github.com/elastic/logstash  { }
+There are many varieties of ELK:
+- The open-source ELK Stack platform ([on Elastic](https://www.elastic.co/webinars/introduction-elk-stack))
+- [Hosted Elasticsearch](https://aws.amazon.com/elasticsearch-service/) (AWS)
+- AI-powered ELK on an enterprise-grade platform ([on Logz.io](https://logz.io/platform/))
+
+**ELK Stack** provides role-based security as a _separate paid tool_. **Splunk and managed-ELK services** offer _user management out of the box with user auditing included_.
+
+* [SPLUNK](https://www.splunk.com)  { forwarder --> indexer --> search head ; uses its own [Splunk Search Processing Language (SPL)](https://www.splunk.com/en_us/resources/search-processing-language.html) which supports the search pipeline - consecutive commands are chained together using a pipe character } 
+* Logstash https://github.com/elastic/logstash  { open-source code }
 * [Kibana](https://www.elastic.co/kibana)  { query is based on the [Lucene query syntax](https://lucene.apache.org/core/3_5_0/queryparsersyntax.html) }
 
+
 https://www.google.com/search?q=SPLUNK%2C+Logz.io%2C+Logstash 
+
 ### some comparison 
 - https://stackshare.io/stackups/logz-io-vs-splunk-enterprise-vs-logstash
 - https://devops.com/splunk-elk-stack-side-side-comparison/

@@ -47,10 +47,10 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 ELK Stack was a collection of three **open-source products** — **E**lasticsearch, **L**ogstash, and **K**ibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four legged project and led to a renaming of the stack as the **Elastic Stack**.
 
-* [SPLUNK](https://www.splunk.com)  { forwarder --> indexer --> search head }
-* [Logz.io](https://logz.io)  [as platform for ELK] 
-* Logstash https://github.com/elastic/logstash 
-
+* [SPLUNK](https://www.splunk.com)  { forwarder --> indexer --> search head ; uses its own [Splunk Search Processing Language (SPL)](https://www.splunk.com/en_us/resources/search-processing-language.html) which supports the search pipeline - consecutive commands are chained together using a pipe character }
+* [Logz.io](https://logz.io)  { as platform for ELK }
+* Logstash https://github.com/elastic/logstash  { }
+* Kibana  { query is based on the [Lucene query syntax](https://lucene.apache.org/core/3_5_0/queryparsersyntax.html) }
 
 https://www.google.com/search?q=SPLUNK%2C+Logz.IO%2C+Logstash 
 ### some comparison 

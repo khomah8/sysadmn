@@ -61,7 +61,7 @@ https://www.google.com/search?q=SPLUNK%2C+Logz.io%2C+Logstash
 
 ![more complex ELK arch](https://logz.io/wp-content/uploads/2018/08/image6-1024x422.png) 
 
-**ELK Stack** provides role-based security as a _separate paid tool_. **Splunk and managed-ELK services** offer _user management out of the box with user auditing included_.
+> **ELK Stack** provides role-based security as a _separate paid tool_. **Splunk and managed-ELK services** offer _user management out of the box with user auditing included_.
 
 * [SPLUNK](https://www.splunk.com)  { forwarder --> indexer --> search head ; uses its own [Splunk Search Processing Language (SPL)](https://www.splunk.com/en_us/resources/search-processing-language.html) which supports the search pipeline - consecutive commands are chained together using a pipe character } 
 * Logstash https://github.com/elastic/logstash  { open-source code }

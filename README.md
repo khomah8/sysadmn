@@ -45,14 +45,11 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 ### (SPLUNK, Logz.IO, Logstash, etc.) {ELK Stack, Grafana, Kafka, Graphite, etc. too}
 [**Elasticsearch**](https://logz.io/tag/elasticsearch/) is NoSQL database that uses the _Lucene search engine_. [**Logstash**](https://logz.io/tag/logstash/) is a data processing and transportation pipeline used to populate Elasticsearch with the data (though also it supports other destinations including Graphite, Kafka, Nagios and RabbitMQ). [**Kibana**](https://logz.io/tag/kibana/) is a dashboard that works on top of Elasticsearch. 
 
-ELK Stack was a collection of three **open-source products** — Elasticsearch, Logstash, and Kibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of Beats turned the stack into a four legged project and led to a renaming of the stack as the Elastic Stack.
+ELK Stack was a collection of three **open-source products** — **E**lasticsearch, **L**ogstash, and **K**ibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four legged project and led to a renaming of the stack as the **Elastic Stack**.
 
-* SPLUNK
-https://www.splunk.com  { forwarder --> indexer --> search head }
-* Logz.IO [as platform for ELK]
-https://logz.io 
-* Logstash
-https://github.com/elastic/logstash 
+* [SPLUNK](https://www.splunk.com)  { forwarder --> indexer --> search head }
+* [Logz.io](https://logz.io)  [as platform for ELK] 
+* Logstash https://github.com/elastic/logstash 
 
 
 https://www.google.com/search?q=SPLUNK%2C+Logz.IO%2C+Logstash 

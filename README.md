@@ -39,6 +39,8 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 - Root Cause analysis
 
+- MTTD/R / MTTD-R [mean-time to detect AND resolve]
+
 
 ## Centralized logs solutions 
 ### (SPLUNK, Logz.io, Logstash, etc.) 
@@ -58,7 +60,6 @@ There are many varieties of ELK:
 * [SPLUNK](https://www.splunk.com)  { forwarder --> indexer --> search head ; uses its own [Splunk Search Processing Language (SPL)](https://www.splunk.com/en_us/resources/search-processing-language.html) which supports the search pipeline - consecutive commands are chained together using a pipe character } 
 * Logstash https://github.com/elastic/logstash  { open-source code }
 * [Kibana](https://www.elastic.co/kibana)  { query is based on the [Lucene query syntax](https://lucene.apache.org/core/3_5_0/queryparsersyntax.html) }
-
 
 https://www.google.com/search?q=SPLUNK%2C+Logz.io%2C+Logstash 
 

@@ -43,7 +43,7 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 
 ## Centralized logs solutions 
-### (SPLUNK, Logz.io, Logstash, etc.) 
+### (as SPLUNK, Logz.io, Logstash, etc.) 
 {Grafana, Kafka, Graphite, Nagios -are-related- too}
 
 https://www.google.com/search?q=SPLUNK%2C+Logz.io%2C+Logstash 
@@ -66,3 +66,4 @@ There are many varieties of ELK:
 ### some comparison 
 - https://stackshare.io/stackups/logz-io-vs-splunk-enterprise-vs-logstash
 - https://devops.com/splunk-elk-stack-side-side-comparison/
+- https://www.getapp.com/business-intelligence-analytics-software/a/logz-io/compare/splunk-enterprise/

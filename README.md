@@ -1,4 +1,4 @@
-# sysadmn OR app reliability support 
+# sysadmn :specifically: App Technical {operational} Support / App Performance Monitoring [APM]
 
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 
@@ -42,3 +42,6 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 - Root Cause analysis
 
 - 
+
+## centralized logs solutions (SPLUNK, Logz.IO, Logstash, etc.)
+https://www.google.com/search?q=SPLUNK%2C+Logz.IO%2C+Logstash 

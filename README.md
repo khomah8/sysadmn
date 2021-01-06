@@ -42,7 +42,7 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 
 ## [centralized logs solutions] 
-(SPLUNK, Logz.IO, Logstash, etc.) {ELK Stack, Kibana too?}
+(SPLUNK, Logz.IO, Logstash, etc.) {ELK Stack, Kibana, Graphite too?}
 
 * SPLUNK
   https://www.splunk.com

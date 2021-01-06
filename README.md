@@ -47,4 +47,5 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 https://www.google.com/search?q=SPLUNK%2C+Logz.IO%2C+Logstash 
 
 ### some comparison 
-https://stackshare.io/stackups/logz-io-vs-splunk-enterprise-vs-logstash
+- https://stackshare.io/stackups/logz-io-vs-splunk-enterprise-vs-logstash
+- https://devops.com/splunk-elk-stack-side-side-comparison/

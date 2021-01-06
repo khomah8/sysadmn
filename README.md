@@ -42,6 +42,9 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 
 ## [centralized logs solutions] 
-(SPLUNK, Logz.IO, Logstash, etc.)
+(SPLUNK, Logz.IO, Logstash, etc.) {ELK Stack}
 
 https://www.google.com/search?q=SPLUNK%2C+Logz.IO%2C+Logstash 
+
+### some comparison 
+https://stackshare.io/stackups/logz-io-vs-splunk-enterprise-vs-logstash

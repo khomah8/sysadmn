@@ -21,7 +21,6 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
-3. 
 
 ### cornerstone/key terms : 
 - APM as application performance management/monitoring tools 
@@ -41,7 +40,7 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 - Root Cause analysis
 
 
-## [centralized logs solutions] 
+## Centralized logs solutions 
 ### (SPLUNK, Logz.io, Logstash, etc.) 
 {Grafana, Kafka, Graphite, Nagios -are-related- too}
 

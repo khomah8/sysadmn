@@ -16,15 +16,15 @@ https://www.nagios.com/solutions/web-application-monitoring/
 
 https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
 
-## [APM-related comparison search] 
+## [APM-related comparison] 
 https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics 
 
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
 3. 
 
-### cornerstone/ key terms : 
-- APM as application {performance / managemen} monitoring group of tools 
+### cornerstone/key terms : 
+- APM as application performance management/monitoring tools 
 
 - measuring-of : 1) user eXperience; 2) resources usage; 
 
@@ -47,7 +47,7 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 * SPLUNK
   https://www.splunk.com
 * Logz.IO
-  https://logz.io/
+  https://logz.io
 * Logstash
   https://github.com/elastic/logstash
 

@@ -45,7 +45,7 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 (SPLUNK, Logz.IO, Logstash, etc.) {ELK Stack, Kibana, Graphite too?}
 
 * SPLUNK
-  https://www.splunk.com
+  https://www.splunk.com  { forwarder --> indexer --> search head }
 * Logz.IO
   https://logz.io
 * Logstash

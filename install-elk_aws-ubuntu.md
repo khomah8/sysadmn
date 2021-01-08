@@ -8,7 +8,9 @@ First, you need to add Elastic’s signing key so that the downloaded package ca
 `wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -`
 
 For Debian, we need to then install the apt-transport-https package:
+
 `sudo apt-get update`
+
 `sudo apt-get install apt-transport-https`
 
 The next step is to add the repository definition to your system:
@@ -22,6 +24,7 @@ To install a version of Elasticsearch that contains only features licensed under
 All that’s left to do is to update your repositories and install Elasticsearch:
 
 `sudo apt-get update`
+
 `sudo apt-get install elasticsearch`
 
 Elasticsearch configurations are done using a configuration file that allows you to configure general settings (e.g. node name), 
@@ -74,7 +77,6 @@ Verify java is installed:
 
 `java -version`
 
-
 ```
 openjdk version "1.8.0_191"
 OpenJDK Runtime Environment (build 1.8.0_191-8u191-b12-2ubuntu0.16.04.1-b12)
@@ -102,6 +104,7 @@ elasticsearch.url: "http://localhost:9200"
 These specific configurations tell Kibana which Elasticsearch to connect to and which port to use.
 
 Now, start Kibana with:
+
 `sudo service kibana start`
 
 Open up Kibana in your browser with: http://localhost:5601. You will be presented with the Kibana home page.

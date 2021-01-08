@@ -4,20 +4,14 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 
 ### [search hits of products/tools]
 
-https://webapplicationmonitoring.net/
-
-https://smartbear.com/learn/performance-monitoring/why-you-should-be-monitoring/
-
-https://www.atlassian.com/software/opsgenie
-
-https://sentry.io/for/performance/
-
-https://www.nagios.com/solutions/web-application-monitoring/
-
-https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
+- https://webapplicationmonitoring.net/
+- https://smartbear.com/learn/performance-monitoring/why-you-should-be-monitoring/
+- https://www.atlassian.com/software/opsgenie
+- https://sentry.io/for/performance/
+- https://www.nagios.com/solutions/web-application-monitoring/
+- https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
 
 ## [APM-related comparison] 
-https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics 
 
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
@@ -44,9 +38,7 @@ https://www.google.com/search?q=New+Relic%2C+Dynatrace%2C+AppDynamics
 
 ## Centralized logs solutions 
 ### (as SPLUNK, Logz.io, Logstash, etc.) 
-{Grafana, Kafka, Graphite, Nagios -are-related- too}
-
-https://www.google.com/search?q=SPLUNK%2C+Logz.io%2C+Logstash 
+{ Grafana, Kafka, Graphite, Nagios -are-related- too } 
 
 > ELK Stack was a collection of three **open-source products** — **E**lasticsearch, **L**ogstash, and **K**ibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four legged project and led to a renaming of the stack as the **Elastic Stack**.
 

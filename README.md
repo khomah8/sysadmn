@@ -25,6 +25,7 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 - system health issues 
 - Root Cause analysis
 - MTTD/R / MTTD-R [mean-time to detect AND resolve]
+- security information and event management (SIEM) platform
 
 > New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
 

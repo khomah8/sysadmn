@@ -19,14 +19,14 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 ### (cornerstone/key) terms : 
 - APM as "application performance management/monitoring" tool 
 - measuring-of : 1) user eXperience; 2) resources usage; 
-- dashboard 
+- dashboard view 
 - score index (apdex IDX as [ SAtisfied T ; TOlerating 1' < T < 4': FRustrated T > 4' ] for new reLiCt; )
-- [index] baseline 
-- [system] health issues 
+- index baseline 
+- system health issues 
 - Root Cause analysis
 - MTTD/R / MTTD-R [mean-time to detect AND resolve]
 
-* New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
+> New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
 
 ## Centralized logs solutions 
 ### (as SPLUNK, Logz.io, Logstash, etc.) 

@@ -31,18 +31,18 @@ For our example, since we are installing Elasticsearch on AWS, it is a good best
 
 > sudo vim /etc/elasticsearch/elasticsearch.yml
 
-'''
+`
 network.host: "localhost"
 http.port:9200
 cluster.initial_master_nodes: ["<PrivateIP"]
-'''
+`
 
 To run Elasticsearch, use:
 
 > sudo service elasticsearch start
 
 To confirm that everything is working as expected, point curl or your browser to http://localhost:9200, and you should see something like the following output:
-'''
+`
 {
   "name" : "ip-172-31-10-207",
   "cluster_name" : "elasticsearch",
@@ -60,7 +60,7 @@ To confirm that everything is working as expected, point curl or your browser to
   },
   "tagline" : "You Know, for Search"
 }
-'''
+`
 
 Installing an Elasticsearch cluster requires a different type of setup. Read our Elasticsearch Cluster tutorial for more information on that.
 
@@ -73,11 +73,11 @@ Verify java is installed:
 
 > java -version
 
-'''
+`
 openjdk version "1.8.0_191"
 OpenJDK Runtime Environment (build 1.8.0_191-8u191-b12-2ubuntu0.16.04.1-b12)
 OpenJDK 64-Bit Server VM (build 25.191-b12, mixed mode)
-'''
+`
 
 Since we already defined the repository in the system, all we have to do to install Logstash is run:
 
@@ -91,15 +91,14 @@ As before, we will use a simple apt command to install Kibana:
 > sudo apt-get install kibana
 
 Open up the Kibana configuration file at: /etc/kibana/kibana.yml, and make sure you have the following configurations defined:
-'''
+`
 server.port: 5601
 elasticsearch.url: "http://localhost:9200"
-'''
+`
 
 These specific configurations tell Kibana which Elasticsearch to connect to and which port to use.
 
 Now, start Kibana with:
-
 > sudo service kibana start
 
 Open up Kibana in your browser with: http://localhost:5601. You will be presented with the Kibana home page.
@@ -118,4 +117,3 @@ To start Metricbeat, enter:
 Metricbeat will begin monitoring your server and create an Elasticsearch index which you can define in Kibana. In the next step, however, we will describe how to set up a data pipeline using Logstash.
 
 More information on using the different beats is available on our blog: **Filebeat, Metricbeat, Winlogbeat, Auditbeat**.
-

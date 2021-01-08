@@ -16,25 +16,17 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
 
-### cornerstone/key terms : 
-- APM as application performance management/monitoring tools 
-
+### (cornerstone/key) terms : 
+- APM as "application performance management/monitoring" tool 
 - measuring-of : 1) user eXperience; 2) resources usage; 
-
 - dashboard 
-
 - score index (apdex IDX as [ SAtisfied T ; TOlerating 1' < T < 4': FRustrated T > 4' ] for new reLiCt; )
-
 - [index] baseline 
-
 - [system] health issues 
-
-- New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
-
 - Root Cause analysis
-
 - MTTD/R / MTTD-R [mean-time to detect AND resolve]
 
+* New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
 
 ## Centralized logs solutions 
 ### (as SPLUNK, Logz.io, Logstash, etc.) 

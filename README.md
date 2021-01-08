@@ -40,7 +40,7 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 
 > There are many varieties of ELK:
 - The open-source ELK Stack platform ([on Elastic](https://www.elastic.co/webinars/introduction-elk-stack))
-- [Hosted Elasticsearch](https://aws.amazon.com/elasticsearch-service/) (AWS)
+- [Hosted Elasticsearch](https://aws.amazon.com/elasticsearch-service/) (AWS) : [installing ELK on Ubuntu](https://logz.io/learn/complete-guide-elk-stack/#installing-elk), accessing by SSH and TCP 5601 (Kibana) 
 - AI-powered ELK on an enterprise-grade platform ([on Logz.io](https://logz.io/platform/))
 
 ![more complex ELK arch](https://logz.io/wp-content/uploads/2018/08/image6-1024x422.png) 

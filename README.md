@@ -69,3 +69,12 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 > software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 > eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
+
+- JSON (objects / documents) : (JavaScript Object Notation) 
+> an open standard file format, and data interchange format, that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value) [wiki](https://en.wikipedia.org/wiki/JSON)
+
+> https://www.json.org/json-en.html
+
+> https://www.w3schools.com/js/js_json_intro.asp { with live [script examples](https://www.w3schools.com/js/tryit.asp?filename=tryjson_receive) }
+
+> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 

@@ -78,3 +78,5 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 > https://www.w3schools.com/js/js_json_intro.asp { with live [script examples](https://www.w3schools.com/js/tryit.asp?filename=tryjson_receive) }
 
 > https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 
+
+> [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)

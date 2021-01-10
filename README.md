@@ -1,4 +1,4 @@
-## :specifically: App Technical {operational} Support / App Performance Monitoring [APM]
+## App Technical Support / App Performance Monitoring [APM]
 
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 

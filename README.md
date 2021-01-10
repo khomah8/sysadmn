@@ -59,5 +59,8 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 
 ### related terms
 - NoSQL database : 
-> "non-relational" DB provides a mechanism for storage [tables] and retrieval of data that is modeled in means other than the tabular relations used in relational databases ; [wiki::NoSQL](https://en.wikipedia.org/wiki/NoSQL) ; https://www.mongodb.com/nosql-explained 
-- 
+> "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki::NoSQL](https://en.wikipedia.org/wiki/NoSQL) 
+> https://www.mongodb.com/nosql-explained 
+> https://www.trustradius.com/nosql-databases
+
+- REST API 

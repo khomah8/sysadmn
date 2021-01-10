@@ -65,4 +65,7 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 
 > https://www.trustradius.com/nosql-databases
 
-- REST API 
+- REST (API) : REpresentational State Transfer 
+> software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+> eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)

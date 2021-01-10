@@ -1,4 +1,4 @@
-## sysadmn :specifically: App Technical {operational} Support / App Performance Monitoring [APM]
+## :specifically: App Technical {operational} Support / App Performance Monitoring [APM]
 
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 
@@ -59,7 +59,7 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 
 ### related terms
 - NoSQL database : 
-> "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki::NoSQL](https://en.wikipedia.org/wiki/NoSQL) 
+> "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 
 
 > https://www.mongodb.com/nosql-explained 
 

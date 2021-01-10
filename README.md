@@ -56,3 +56,8 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 - https://stackshare.io/stackups/logz-io-vs-splunk-enterprise-vs-logstash
 - https://devops.com/splunk-elk-stack-side-side-comparison/
 - https://www.getapp.com/business-intelligence-analytics-software/a/logz-io/compare/splunk-enterprise/
+
+### related terms
+- NoSQL database : 
+> "non-relational" DB provides a mechanism for storage [tables] and retrieval of data that is modeled in means other than the tabular relations used in relational databases ; [wiki::NoSQL](https://en.wikipedia.org/wiki/NoSQL) ; https://www.mongodb.com/nosql-explained 
+- 

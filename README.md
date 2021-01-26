@@ -1,9 +1,9 @@
 ## App Technical Support / App Performance Monitoring\Management [APM] [wiki](https://en.wikipedia.org/wiki/Application_performance_management)
 
-
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 
-> "APM is "the translation of IT metrics into business meaning ([i.e.] value)" (https://www.apmdigest.com/the-anatomy-of-apm-4-foundational-elements-to-a-successful-strategy)
+[apmdigest.com](https://www.apmdigest.com/the-anatomy-of-apm-4-foundational-elements-to-a-successful-strategy)
+> "APM is "the translation of IT metrics into business meaning ([i.e.] value)" 
 
 ### [init search hits of products/tools]
 

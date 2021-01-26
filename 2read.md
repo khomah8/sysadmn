@@ -1,7 +1,9 @@
-## temp links longreads 
+TEMP links 
+## it-longreads 
 
 - https://www.opennet.ru/base/sec/ssl_sertifacition.txt.html
-- 
+- https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
+-
 
 #### offtop 
 - [«Мимино́» (груз. მიმინო) — советский комедийный художественный фильм режиссёра Георгия Данелии](https://ru.wikiquote.org/wiki/%D0%9C%D0%B8%D0%BC%D0%B8%D0%BD%D0%BE)

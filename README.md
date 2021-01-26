@@ -1,8 +1,11 @@
-## App Technical Support / App Performance Monitoring [APM]
+## App Technical Support / App Performance Monitoring\Management [APM] [wiki](https://en.wikipedia.org/wiki/Application_performance_management)
+
 
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 
-### [search hits of products/tools]
+> "APM is "the translation of IT metrics into business meaning ([i.e.] value)" (https://www.apmdigest.com/the-anatomy-of-apm-4-foundational-elements-to-a-successful-strategy)
+
+### [init search hits of products/tools]
 
 - https://webapplicationmonitoring.net/
 - https://smartbear.com/learn/performance-monitoring/why-you-should-be-monitoring/
@@ -10,6 +13,7 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 - https://sentry.io/for/performance/
 - https://www.nagios.com/solutions/web-application-monitoring/
 - https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
+
 
 ## [APM-related comparison] 
 

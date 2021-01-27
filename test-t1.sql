@@ -4,7 +4,6 @@
 
 SELECT Column FROM Table1 WHERE Some<>0 ;
 
--- 2
-
-
--- 3
+-- one-line as REM
+--SELECT something FROM some
+-- see https://www.w3schools.com/sql/sql_comments.asp

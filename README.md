@@ -61,7 +61,7 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 - https://devops.com/splunk-elk-stack-side-side-comparison/
 - https://www.getapp.com/business-intelligence-analytics-software/a/logz-io/compare/splunk-enterprise/
 
-### related terms
+### related terms\ tools 
 - NoSQL database : 
 > "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 
 
@@ -84,3 +84,8 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 > https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 
 
 > [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)
+
+- PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor) 
+> **Paessler Router Traffic Grapher until version 7** is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
+
+> https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 

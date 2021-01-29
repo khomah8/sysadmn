@@ -11,6 +11,8 @@ https://rancher.com/blog/2018/2018-10-09-kubernetes-versus-docker/
 
 - in web development is a method of augmenting or altering the behavior of a web page or web application with custom callbacks. These callbacks may be maintained, modified, and managed by third-party users and developers who may not necessarily be affiliated with the originating website or application. The term "webhook" was coined by Jeff Lindsay in 2007 from the computer programming term hook.
 
+- https://craftersoftware.com/blog/2019/08/webhooks-vs-apis--whats-the-difference#
+
 > TCP_DENIED/403 3925 CONNECT _domain_.webhook.office.com:443 - HIER_NONE/- text/html
 
 and, try https://stackoverflow.com/  :)

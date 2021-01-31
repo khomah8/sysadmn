@@ -30,3 +30,8 @@
 > **Paessler Router Traffic Grapher until version 7** is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
 
 > https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
+
++ Security concerns
+
+> https://learn.javascript.ru/csrf
+

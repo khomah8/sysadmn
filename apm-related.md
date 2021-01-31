@@ -18,6 +18,8 @@
 
 > https://www.json.org/json-en.html
 
+> https://jsonapi.org/ 
+
 > https://www.w3schools.com/js/js_json_intro.asp { with live [script examples](https://www.w3schools.com/js/tryit.asp?filename=tryjson_receive) }
 
 > https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 

@@ -31,7 +31,10 @@
 
 > https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
 
-+ Security concerns
+- Security concerns
 
 > https://learn.javascript.ru/csrf
 
+> https://duo.com/docs/radius
+
+> https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 

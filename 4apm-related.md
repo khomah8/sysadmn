@@ -15,11 +15,12 @@
 
 - HTTP connection explained:
   - The __persistent network connection__ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.
-  - Persistent connections _can improve overall system performance_ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.
-  - The connection is __persistent by default for HTTP/1.1__ clients. _For HTTP/1.0 connections_, you need to explicitly indicate that you want a persistent connection by adding the _"Connection: keep-alive" header_.
+  - Persistent connections __can improve overall system performance__ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.
+  - The connection is __persistent by default for HTTP/1.1__ clients. __For HTTP/1.0 connections__, you need to explicitly indicate that you want a persistent connection by adding the `"Connection: keep-alive"` header.
+  - A client can inform the server that it doesn't need a persistent connection by sending the `"Connection: close"` header, thereby freeing up server resources. For example, if the client does not plan to send more than one request to this server.
+  - If the server __does not support persistent connections or cannot provide__ a persistent connection at this time, it can indicate this by sending the `"Connection: close"` __header in the response__.
 
 [try `Keep-Alive` connection](https://reqbin.com/req/4sa9kqvu); [try `Close` connection](https://reqbin.com/req/84xntxmp) 
-
   
 > https://reqbin.com/Article/Connection
 

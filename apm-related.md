@@ -42,11 +42,12 @@
 - HTTP connection
 
 > https://reqbin.com/Article/Connection
-```
-GET / HTTP/1.1
+```GET / HTTP/1.1
 Connection: keep-alive
 Keep-Alive: timeout=5, max=100
 Host: google.com
 ```
+-- The connection is persistent by default for HTTP/1.1 clients. For HTTP/1.0 connections, you need to explicitly indicate that you want a persistent connection by adding the "Connection: keep-alive" header.
+
 
 > https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive

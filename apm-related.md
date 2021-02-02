@@ -13,6 +13,16 @@
 
 > eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
+- HTTP connection explained:
+  - The __persistent network connection__ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.
+  - Persistent connections _can improve overall system performance_ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.
+  - The connection is __persistent by default for HTTP/1.1__ clients. _For HTTP/1.0 connections_, you need to explicitly indicate that you want a persistent connection by adding the _"Connection: keep-alive" header_.
+  `https://reqbin.com/req/4sa9kqvu`
+  
+> https://reqbin.com/Article/Connection
+
+> https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
+
 - JSON (objects / documents) : (JavaScript Object Notation) 
 > an open standard file format, and data interchange format, that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value) [wiki](https://en.wikipedia.org/wiki/JSON)
 
@@ -38,12 +48,3 @@
 > https://duo.com/docs/radius
 
 > https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
-
-- HTTP connection
-  - The __persistent network connection__ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.
-  - Persistent connections _can improve overall system performance_ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.
-  - The connection is __persistent by default for HTTP/1.1__ clients. _For HTTP/1.0 connections_, you need to explicitly indicate that you want a persistent connection by adding the _"Connection: keep-alive" header_.
-  
-> https://reqbin.com/Article/Connection
-
-> https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive

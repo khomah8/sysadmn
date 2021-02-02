@@ -18,7 +18,7 @@
   - Persistent connections _can improve overall system performance_ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.
   - The connection is __persistent by default for HTTP/1.1__ clients. _For HTTP/1.0 connections_, you need to explicitly indicate that you want a persistent connection by adding the _"Connection: keep-alive" header_.
 
-[try `Keep-Alive`](https://reqbin.com/req/4sa9kqvu)  [try `Close`](reqbin)
+[try `Keep-Alive` connection](https://reqbin.com/req/4sa9kqvu); [try `Close` connection](https://reqbin.com/req/84xntxmp) 
 
   
 > https://reqbin.com/Article/Connection

@@ -40,13 +40,10 @@
 > https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
 
 - HTTP connection
-  - The connection is persistent by default for HTTP/1.1 clients. For HTTP/1.0 connections, you need to explicitly indicate that you want a persistent connection by adding the "Connection: keep-alive" header.
+  - The __persistent network connection__ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.
+  - Persistent connections _can improve overall system performance_ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.
+  - The connection is __persistent by default for HTTP/1.1__ clients. _For HTTP/1.0 connections_, you need to explicitly indicate that you want a persistent connection by adding the _"Connection: keep-alive" header_.
   
 > https://reqbin.com/Article/Connection
-```GET / HTTP/1.1
-Connection: keep-alive
-Keep-Alive: timeout=5, max=100
-Host: google.com
-```
 
 > https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive

@@ -48,11 +48,19 @@
 
 > Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 
 
-> https://kafka.apache.org/ 
+> We can use Kafka as a Message Queue or a Messaging System but as a distributed streaming platform Kafka has several other usages for stream processing or storing data. We can use Apache Kafka as: Messaging System: a highly scalable, fault-tolerant and distributed Publish/Subscribe messaging system. 
+
+> In short, Kafka is used for stream processing, website activity tracking, metrics collection and monitoring, log aggregation, real-time analytics, CEP, ingesting data into Spark, ingesting data into Hadoop, CQRS, replay messages, error recovery, and guaranteed distributed commit log for in-memory computing
+
+> Kafka is an open source software which provides a framework for storing, reading and analysing streaming data. ... Kafka was originally created at LinkedIn, where it played a part in analysing the connections between their millions of professional users in order to build networks between people.
 
 > https://kafka.apache.org/documentation/
 
-> 
+> https://dzone.com/articles/what-is-kafka
+
+> https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
+
+> {from EvgeniZ} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
 
 - Security concerns
 

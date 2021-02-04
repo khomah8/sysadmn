@@ -60,7 +60,7 @@
 
 > https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
 
-> {from EvgeniZ} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
+> {from @ZinoviiYu} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
 
 - Security concerns
 

@@ -3,10 +3,13 @@ TEMP links
 
 - https://www.opennet.ru/base/sec/ssl_sertifacition.txt.html
 - https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
+- median VS average { 
   - https://www.thebalance.com/median-vs-average-what-the-difference-2682237
   - https://medium.com/@nhan.tran/mean-median-an-mode-in-statistics-3359d3774b0b
   - https://www.diffen.com/difference/Mean_vs_Median
+}
 - https://medium.com/swlh/strikethrough-using-html5-26fea2020a72
+- 
 
 
 #### offtop 

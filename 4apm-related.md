@@ -74,3 +74,8 @@
 - devOps / serviceOps 
 
 > https://t.me/s/catops?
+
+> https://www.youtube.com/watch?v=8eH3k4BxV6k&
+
+> https://www.devops-research.com/research.html
+

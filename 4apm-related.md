@@ -70,3 +70,7 @@
 > https://duo.com/docs/radius
 
 > https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
+
+- devOps / serviceOps 
+
+> https://t.me/s/catops?

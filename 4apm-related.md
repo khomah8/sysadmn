@@ -1,6 +1,4 @@
-# App Perf Monitoring 
-
-## related terms\ tools 
+## App Perf Monitoring, related terms & tools 
 
 - NoSQL database : 
 > "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 

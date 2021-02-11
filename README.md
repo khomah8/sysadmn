@@ -1,4 +1,4 @@
-## App Technical Support / App Performance Monitoring\Management [APM] [wiki](https://en.wikipedia.org/wiki/Application_performance_management)
+## App Tech Supp / Application Performance Monitoring\Management [APM] [wiki](https://en.wikipedia.org/wiki/Application_performance_management)
 
 about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
 
@@ -34,8 +34,8 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 > New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
 
 ## Centralized logs solutions 
-### ( SPLUNK, Logz.io, Logstash, etc. ) 
-{ Grafana, Kafka, Graphite, Nagios -are-related- too } 
+### ( SPLUNK, Logstash, etc. ) 
+{ Grafana, Kafka, Graphite, Nagios, etc -- are-related } 
 
 > ELK Stack { log analytics platform } was a collection of three **open-source products** — **E**lasticsearch, **L**ogstash, and **K**ibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four legged project and led to a renaming of the stack as the **Elastic Stack**.
 

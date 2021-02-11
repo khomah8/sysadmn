@@ -15,7 +15,7 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 - https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
 
 
-## [APM-related comparison] 
+## [APM tools comparison]
 
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
@@ -31,7 +31,12 @@ about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitorin
 - MTTD/R / MTTD-R [mean-time to detect AND resolve]
 - security information and event management (SIEM) platform
 
-> New Relic is a SaaS platform, while AppDynamics and Dynatrace offer [full SaaS, on-prem, and hybrid installation options] 
+> __New Relic__ is a SaaS platform, while __AppDynamics__ and __Dynatrace__ offer [full SaaS, on-prem, and hybrid installation options] 
+
+### New Relic One
+> two ways to write your own queries to retrieve data and build charts:
+- Query builder - __NRQL mode__: query using New Relic query language (NRQL), the same language we use to build most of our UI experiences.
+- Query builder - __PromQL-style mode__: write basic queries using a [PromQL-style query](https://prometheus.io/docs/prometheus/latest/querying/basics/).  
 
 ## Centralized logs solutions 
 ### ( SPLUNK, Logstash, etc. ) 

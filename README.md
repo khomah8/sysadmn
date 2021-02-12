@@ -47,9 +47,10 @@ tagged: #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #ap
 
 > `ELK Stack { log analytics platform }` was a collection of three **open-source products** — [__E__lasticsearch](https://logz.io/tag/elasticsearch/), [__L__ogstash](https://logz.io/tag/logstash/),[github](https://github.com/elastic/logstash), and [__K__ibana](https://logz.io/tag/kibana/) — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four-legged project and led to a renaming of the stack as the `**Elastic Stack**`.
 > `Elasticsearch` is NoSQL database that uses the __Lucene search engine__. `Logstash` is a data processing and transportation pipeline used to populate Elasticsearch with the data (though also it supports other destinations including Graphite, Kafka, Nagios and RabbitMQ). [Kibana](https://www.elastic.co/kibana) is a dashboard that works on top of Elasticsearch. Kibana query is based on the [Lucene query syntax](https://lucene.apache.org/core/3_5_0/queryparsersyntax.html). 
-[small-size ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image21-1024x328.png)
 
-[more complex ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image6-1024x422.png) 
+:green_book: [small-size ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image21-1024x328.png)
+
+:blue_book: [more complex ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image6-1024x422.png) 
 
 > There are many `varieties of ELK`:
 - The open-source ELK Stack platform ([on Elastic](https://www.elastic.co/webinars/introduction-elk-stack))

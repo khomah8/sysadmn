@@ -1,6 +1,6 @@
-## App Tech Supp / Application Performance Monitoring\Management [APM] [wiki](https://en.wikipedia.org/wiki/Application_performance_management)
+## Application Performance M(onitoring | anagement) [APM] [wiki](https://en.wikipedia.org/wiki/Application_performance_management)
 
-about devOps, etc. and #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring ... 
+related to devOps, serviceOps, etc. and tagged #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #app-moinitoring-solution #app-performance-monitoring 
 
 ### [init search hits of products/tools]
 

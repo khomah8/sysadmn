@@ -17,7 +17,7 @@ related to devOps, serviceOps, etc. and tagged #app-monitoring-task #app-monitor
 1. https://coralogix.com/log-analytics-blog/apm-comparison/
 2. https://crozdesk.com/it/application-performance-monitoring-apm-software, https://crozdesk.com/compare/appdynamics-vs-dynatrace-vs-new-relic 
 
-### (cornerstone/key) terms : 
+### cornerstones | key terms : 
 - APM is for "application performance management/monitoring"  
 - measuring-of : 1) user eXperience; 2) resources usage; 
 - dashboard view(s) 
@@ -28,18 +28,24 @@ related to devOps, serviceOps, etc. and tagged #app-monitoring-task #app-monitor
 - MTTD/R / MTTD-R [mean-time to detect AND resolve] parameter 
 - SIEM [security information and event management] platform
 
-### New Relic One (and other services)
-> __New Relic__ is a SaaS platform, while __AppDynamics__ and __Dynatrace__ offer [full SaaS, on-prem, and hybrid installation options] 
+### APM by targets 
+- FrontEnd applications
+- BackEnd applications
+- Orchestration applications
+- other?
 
-> two ways to write your own queries to retrieve data and build charts:
-- Query builder - __NRQL mode__: query using New Relic query language (NRQL), the same language we use to build most of our UI experiences.
-- Query builder - __PromQL-style mode__: write basic queries using a [PromQL-style query](https://prometheus.io/docs/prometheus/latest/querying/basics/).  
+### New Relic One (and other services)
+> `New Relic` is a SaaS platform, while `AppDynamics` and `Dynatrace` offer [full SaaS, on-prem, and hybrid installation options] 
+
+> two ways to write your own queries to retrieve data and build charts (Query builder):
+- __NRQL mode__: query using `New Relic query language (NRQL)`, the same language we use to build most of our UI experiences.
+- __PromQL-style mode__: write basic queries using a [PromQL-style query](https://prometheus.io/docs/prometheus/latest/querying/basics/).  
 
 ### Centralized logs solutions ( SPLUNK, ELK, etc. ) 
 { Grafana, Kafka, Graphite, Nagios, etc -- are-related } 
 
-> ELK Stack { log analytics platform } was a collection of three **open-source products** — **E**lasticsearch, **L**ogstash, and **K**ibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four legged project and led to a renaming of the stack as the **Elastic Stack**.
-> [**Elasticsearch**](https://logz.io/tag/elasticsearch/) is NoSQL database that uses the _Lucene search engine_. [**Logstash**](https://logz.io/tag/logstash/) is a data processing and transportation pipeline used to populate Elasticsearch with the data (though also it supports other destinations including Graphite, Kafka, Nagios and RabbitMQ). [**Kibana**](https://logz.io/tag/kibana/) is a dashboard that works on top of Elasticsearch. 
+> `ELK Stack { log analytics platform }` was a collection of three **open-source products** — **E**lasticsearch, **L**ogstash, and **K**ibana — all developed, managed and maintained by [Elastic](https://www.elastic.co/). The introduction and subsequent addition of **Beats** turned the stack into a four-legged project and led to a renaming of the stack as the `**Elastic Stack**`.
+> [**Elasticsearch**](https://logz.io/tag/elasticsearch/) is NoSQL database that uses the __Lucene search engine__. [**Logstash**](https://logz.io/tag/logstash/) is a data processing and transportation pipeline used to populate Elasticsearch with the data (though also it supports other destinations including Graphite, Kafka, Nagios and RabbitMQ). [**Kibana**](https://logz.io/tag/kibana/) is a dashboard that works on top of Elasticsearch. 
 [small-size ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image21-1024x328.png)
 [more complex ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image6-1024x422.png) 
 

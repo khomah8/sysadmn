@@ -50,7 +50,7 @@ tagged: #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #ap
 
 :green_book: [small-size ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image21-1024x328.png)
 
-:blue_book: [more complex ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image6-1024x422.png) 
+:orange_book: [more complex ELK, PNG-diagram](https://logz.io/wp-content/uploads/2018/08/image6-1024x422.png) 
 
 > There are many `varieties of ELK`:
 - The open-source ELK Stack platform ([on Elastic](https://www.elastic.co/webinars/introduction-elk-stack))

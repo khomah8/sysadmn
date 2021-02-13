@@ -12,6 +12,8 @@ TEMP links
   - https://www.thebalance.com/median-vs-average-what-the-difference-2682237
   - https://medium.com/@nhan.tran/mean-median-an-mode-in-statistics-3359d3774b0b
   - https://www.diffen.com/difference/Mean_vs_Median
+  - - discreet VS continuous SET OF DATA (?)
+  - - depends of field of usage these terms (measurements)
 }
 - https://en.wikipedia.org/wiki/Information_silo
 - 

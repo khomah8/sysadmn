@@ -11,7 +11,9 @@ TEMP links
 - median VS average { 
   - https://www.thebalance.com/median-vs-average-what-the-difference-2682237
   - https://medium.com/@nhan.tran/mean-median-an-mode-in-statistics-3359d3774b0b
-  - https://www.diffen.com/difference/Mean_vs_Median
+  - https://www.diffen.com/difference/Mean_vs_Median {
+  "... the difference between median and mean? This is an easy one: Mean is used to refer to arithmetic mean, one of the different types of mean. Mean and average are the same. They are synonyms, ..." -> https://www.payscale.com/compensation-today/2011/11/mean-vs-median
+  }
   - - discreet VS continuous SET OF DATA (?)
   - - depends of field of usage these terms (measurements)
 }

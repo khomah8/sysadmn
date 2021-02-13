@@ -17,6 +17,7 @@ TEMP links
     - discreet VS continuous SET OF DATA (?)
     - depends of field of usage these terms (measurements)
     - depands of dataset size and itś other statistics values
+    - "the mean or average is very sensitive to outliers (abnormally low or high values), while the median is much less affected by outliers."
 }
 - https://en.wikipedia.org/wiki/Information_silo
 - 

@@ -22,7 +22,7 @@ TEMP links
     - "Applicability: The `mean is used for normal distributions`.	The `median is generally used for skewed distributions`."
     - (?) calculating of the meAn is simpler VS founding the meDian [math VS sort]
     - "in case of `an even number of observations`, there is no single middle value, so it is a usual practice to take the mean of the `two middle values`."
-    - 'central tendency' гарно іллюстує безглуздість використання середньаріфметичного значення "средняя темпрература по палате" 
+    - 'central tendency' гарно іллюстує безглуздість використання середньаріфметичного значення "средняя темпрература по палате" [Comparison of mean, median and mode of two log-normal distributions with different skewness](https://static.diffen.com/uploadz/thumb/6/61/mean-median.png/600px-mean-median.png)
   }
   
 }

@@ -25,7 +25,7 @@ TEMP links
   }
   
 }
-- https://en.wikipedia.org/wiki/Information_silo
+- https://en.wikipedia.org/wiki/Information_silo \традиционные отделы в организациях как "колодцы", не позволяющие распределить потоки инфо\
 - 
 
 ### offtop 

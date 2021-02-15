@@ -23,6 +23,7 @@ TEMP links
     - (?) calculating of the meAn is simpler VS founding the meDian [math VS sort]
     - "in case of `an even number of observations`, there is no single middle value, so it is a usual practice to take the mean of the `two middle values`."
     - 'central tendency' гарно іллюстує безглуздість використання середньаріфметичного значення "средняя темпрература по палате" [Comparison of mean, median and mode of two log-normal distributions with different skewness](https://static.diffen.com/uploadz/thumb/6/61/mean-median.png/600px-mean-median.png)
+    - `The disadvantages: Mean` is not a robust statistic tool since it cannot be applied to all distributions but is easily the most widely used statistic tool to derive the central tendency. The reason that mean cannot be applied to all distributions is because it gets unduly impacted by values in the sample that are too small to too large. `The median` is that it is difficult to handle theoretically. There is no easy mathematical formula to calculate the median.
   }
   
 }

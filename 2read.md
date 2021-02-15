@@ -9,15 +9,19 @@ TEMP links
 ## brain-storming 
 
 - median VS average { 
-  - https://www.thebalance.com/median-vs-average-what-the-difference-2682237
+  - https://www.thebalance.com/median-vs-average-what-the-difference-2682237 {
+    `"... the difference between median and mean? This is an easy one: Mean is used to refer to arithmetic mean, one of the different types of mean. Mean and average are the same. They are synonyms ..."`: https://www.payscale.com/compensation-today/2011/11/mean-vs-median
+    - ~~discreet VS continuous measurement~~
+    - choice of best criteria depends of field of usage these terms (measurements)
+    - depands of dataset size and itś other statistics values
+    - `"the mean or average is very sensitive to outliers (abnormally low or high values), while the median is much less affected by outliers."`
+
+  }
   - https://medium.com/@nhan.tran/mean-median-an-mode-in-statistics-3359d3774b0b
   - https://www.diffen.com/difference/Mean_vs_Median {
-  "... the difference between median and mean? This is an easy one: Mean is used to refer to arithmetic mean, one of the different types of mean. Mean and average are the same. They are synonyms, ..." -> https://www.payscale.com/compensation-today/2011/11/mean-vs-median
+    - 1 sub 
+    - 2 sub 
   }
-    - discreet VS continuous SET OF DATA (?)
-    - depends of field of usage these terms (measurements)
-    - depands of dataset size and itś other statistics values
-    - "the mean or average is very sensitive to outliers (abnormally low or high values), while the median is much less affected by outliers."
 }
 - https://en.wikipedia.org/wiki/Information_silo
 - 

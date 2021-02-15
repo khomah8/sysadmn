@@ -19,8 +19,8 @@ TEMP links
   }
   - https://medium.com/@nhan.tran/mean-median-an-mode-in-statistics-3359d3774b0b
   - https://www.diffen.com/difference/Mean_vs_Median {
-    - 1 sub 
-    - 2 sub 
+    - "While an average has traditionally been a popular measure of a mid-point in a sample, it has the disadvantage of being affected by any single value being too high or too low compared to the rest of the sample. This is why a median is sometimes taken as a better measure of a mid point."
+    - 2  
   }
 }
 - https://en.wikipedia.org/wiki/Information_silo

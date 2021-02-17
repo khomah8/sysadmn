@@ -38,26 +38,25 @@
     - "Виртуализация или контейнеры ? В чем разница ?"  https://www.youtube.com/watch?v=NWhc96LbDME --> https://system-admins.ru/teoriya-primery-virtualizacii/ 
     - Контейнерная виртуализация в Linux - YouTube  https://www.youtube.com/watch?v=rJRLZfk3a8U
     - "007. Виртуализация и контейнеризация" - Антон Конвалюк - YouTube  https://www.youtube.com/watch?v=YsQAAaNpw6Y
+- NGINX Ingress Controller - NGINX   https://www.nginx.com/products/nginx-ingress-controller/
+- How it works - NGINX Ingress Controller  https://kubernetes.github.io/ingress-nginx/how-it-works/
+
+### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)
+
+> Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 
+> We can use Kafka as a __Message Queue or a Messaging System__ but as a distributed streaming platform Kafka has several other usages for stream processing or storing data. Messaging System: a __highly scalable, fault-tolerant and distributed Publish/Subscribe__ messaging system. 
+> In short, Kafka is used for stream processing, __website activity tracking, metrics collection and monitoring, log aggregation, real-time analytics__, CEP, ingesting data into Spark, ingesting data into Hadoop, CQRS, replay messages, error recovery, and guaranteed distributed commit log for in-memory computing... 
+> Kafka provides a __framework for storing, reading and analysing streaming data__... was originally created at LinkedIn, where it played a part in __analysing the connections between their millions of professional users__ in order to build networks between people.
+- https://kafka.apache.org/documentation/
+- https://dzone.com/articles/what-is-kafka
+- https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
+- {from @ZinoviiYu} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
 
 ### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor) 
 
 > __Paessler Router Traffic Grapher until version 7__ is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
 - https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
 - 
-
-### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)
-
-> Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 
-
-> We can use Kafka as a __Message Queue or a Messaging System__ but as a distributed streaming platform Kafka has several other usages for stream processing or storing data. Messaging System: a __highly scalable, fault-tolerant and distributed Publish/Subscribe__ messaging system. 
-
-> In short, Kafka is used for stream processing, __website activity tracking, metrics collection and monitoring, log aggregation, real-time analytics__, CEP, ingesting data into Spark, ingesting data into Hadoop, CQRS, replay messages, error recovery, and guaranteed distributed commit log for in-memory computing... 
-
-> Kafka provides a __framework for storing, reading and analysing streaming data__... was originally created at LinkedIn, where it played a part in __analysing the connections between their millions of professional users__ in order to build networks between people.
-- https://kafka.apache.org/documentation/
-- https://dzone.com/articles/what-is-kafka
-- https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
-- {from @ZinoviiYu} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
 
 ## Load Balancing / Availability / Robustness / Scaling concenrns
 - How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/

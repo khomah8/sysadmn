@@ -38,6 +38,7 @@
 - https://docs.microsoft.com/ru-ru/virtualization/windowscontainers/about/containers-vs-vm
 - youtube 
     - "Виртуализация или контейнеры ? В чем разница ?"  https://www.youtube.com/watch?v=NWhc96LbDME --> https://system-admins.ru/teoriya-primery-virtualizacii/ 
+    - Контейнерная виртуализация в Linux - YouTube  https://www.youtube.com/watch?v=rJRLZfk3a8U
     - "007. Виртуализация и контейнеризация" - Антон Конвалюк - YouTube  https://www.youtube.com/watch?v=YsQAAaNpw6Y
 
 ### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor) 

@@ -38,6 +38,13 @@
 
 > [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)
 
+### Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
+
+> https://habr.com/ru/company/virtuozzo/blog/319998/
+> https://gigacloud.ua/blog/navchannja/chomu-kontejneri-ce-majbutne-virtualizacii
+> https://www.bigdataschool.ru/blog/containers-big-data.html
+> https://docs.microsoft.com/ru-ru/virtualization/windowscontainers/about/containers-vs-vm
+
 ### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor) 
 
 > __Paessler Router Traffic Grapher until version 7__ is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
@@ -70,7 +77,7 @@
 
 > https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
 
-### devOps / serviceOps 
+### devOps / serviceOps (general)
 
 > https://t.me/s/catops?
 

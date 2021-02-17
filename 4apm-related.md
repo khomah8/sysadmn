@@ -36,7 +36,6 @@
 - How it works - NGINX Ingress Controller  https://kubernetes.github.io/ingress-nginx/how-it-works/
 
 ### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)
-
 > Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 
 > We can use Kafka as a __Message Queue or a Messaging System__ but as a distributed streaming platform Kafka has several other usages for stream processing or storing data. Messaging System: a __highly scalable, fault-tolerant and distributed Publish/Subscribe__ messaging system. 
 > In short, Kafka is used for stream processing, __website activity tracking, metrics collection and monitoring, log aggregation, real-time analytics__, CEP, ingesting data into Spark, ingesting data into Hadoop, CQRS, replay messages, error recovery, and guaranteed distributed commit log for in-memory computing... 
@@ -45,6 +44,9 @@
 - https://dzone.com/articles/what-is-kafka
 - https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
 - {from @ZinoviiYu} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
+
+### Microsoft Message Queuing, MSMQ : [wiki](https://en.wikipedia.org/wiki/Microsoft_Message_Queuing) 
+- https://docs.microsoft.com/en-us/previous-versions/ms834460(v=msdn.10)
 
 ### NoSQL database : 
 > "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 

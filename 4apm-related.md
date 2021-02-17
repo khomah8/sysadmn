@@ -3,9 +3,8 @@
 - NoSQL database : 
 > "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 
 
-> https://www.mongodb.com/nosql-explained 
-
-> https://www.trustradius.com/nosql-databases
+- https://www.mongodb.com/nosql-explained 
+- https://www.trustradius.com/nosql-databases
 
 ## REST (API) : REpresentational State Transfer 
 > software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
@@ -21,29 +20,25 @@
 
 [try `Keep-Alive` connection](https://reqbin.com/req/4sa9kqvu); [try `Close` connection](https://reqbin.com/req/84xntxmp) 
   
-> https://reqbin.com/Article/Connection
-
-> https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
+- https://reqbin.com/Article/Connection
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
 
 ### JSON (objects / documents) : (JavaScript Object Notation) 
 > an open standard file format, and data interchange format, that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value) [wiki](https://en.wikipedia.org/wiki/JSON)
+- https://www.json.org/json-en.html
+- https://jsonapi.org/ 
+- https://www.w3schools.com/js/js_json_intro.asp { with live [script examples](https://www.w3schools.com/js/tryit.asp?filename=tryjson_receive) }
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 
+- [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)
 
-> https://www.json.org/json-en.html
-
-> https://jsonapi.org/ 
-
-> https://www.w3schools.com/js/js_json_intro.asp { with live [script examples](https://www.w3schools.com/js/tryit.asp?filename=tryjson_receive) }
-
-> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 
-
-> [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)
-
-### Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
-
-> https://habr.com/ru/company/virtuozzo/blog/319998/
-> https://gigacloud.ua/blog/navchannja/chomu-kontejneri-ce-majbutne-virtualizacii
-> https://www.bigdataschool.ru/blog/containers-big-data.html
-> https://docs.microsoft.com/ru-ru/virtualization/windowscontainers/about/containers-vs-vm
+### VM, Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
+- https://habr.com/ru/company/virtuozzo/blog/319998/
+- https://gigacloud.ua/blog/navchannja/chomu-kontejneri-ce-majbutne-virtualizacii
+- https://www.bigdataschool.ru/blog/containers-big-data.html
+- https://docs.microsoft.com/ru-ru/virtualization/windowscontainers/about/containers-vs-vm
+- youtube 
+    - "Виртуализация или контейнеры ? В чем разница ?"  https://www.youtube.com/watch?v=NWhc96LbDME
+    - "007. Виртуализация и контейнеризация" - Антон Конвалюк - YouTube  https://www.youtube.com/watch?v=YsQAAaNpw6Y
 
 ### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor) 
 
@@ -60,28 +55,19 @@
 > In short, Kafka is used for stream processing, __website activity tracking, metrics collection and monitoring, log aggregation, real-time analytics__, CEP, ingesting data into Spark, ingesting data into Hadoop, CQRS, replay messages, error recovery, and guaranteed distributed commit log for in-memory computing... 
 
 > Kafka provides a __framework for storing, reading and analysing streaming data__... was originally created at LinkedIn, where it played a part in __analysing the connections between their millions of professional users__ in order to build networks between people.
-
-> https://kafka.apache.org/documentation/
-
-> https://dzone.com/articles/what-is-kafka
-
-> https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
-
-> {from @ZinoviiYu} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
+- https://kafka.apache.org/documentation/
+- https://dzone.com/articles/what-is-kafka
+- https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
+- {from @ZinoviiYu} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
 
 ## Security concerns
-
-> https://learn.javascript.ru/csrf
-
-> https://duo.com/docs/radius
-
-> https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
+- https://learn.javascript.ru/csrf
+- https://duo.com/docs/radius
+- https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
 
 ### devOps / serviceOps (general)
-
-> https://t.me/s/catops?
-
-> https://www.youtube.com/watch?v=8eH3k4BxV6k&
-
-> https://www.devops-research.com/research.html
-
+- https://t.me/s/catops
+- https://www.youtube.com/watch?v=8eH3k4BxV6k&
+- https://www.devops-research.com/research.html
+- https://system-admins.ru/devops-engineer/
+- 

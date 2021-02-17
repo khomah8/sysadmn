@@ -7,9 +7,8 @@
 - https://www.trustradius.com/nosql-databases
 
 ## REST (API) : REpresentational State Transfer 
-> software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
-
-> eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
+- software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
 ### HTTP connection explained:
   - The _persistent network connection_ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.
@@ -19,7 +18,6 @@
   - If the server _does not support persistent connections or cannot provide_ a persistent connection at this time, it can indicate this by sending the `"Connection: close"` _header in the response_.
 
 [try `Keep-Alive` connection](https://reqbin.com/req/4sa9kqvu); [try `Close` connection](https://reqbin.com/req/84xntxmp) 
-  
 - https://reqbin.com/Article/Connection
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
 
@@ -31,7 +29,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 
 - [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)
 
-### VM, Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
+## VM, Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
 - https://habr.com/ru/company/virtuozzo/blog/319998/
 - https://gigacloud.ua/blog/navchannja/chomu-kontejneri-ce-majbutne-virtualizacii
 - https://www.bigdataschool.ru/blog/containers-big-data.html
@@ -61,10 +59,16 @@
 - https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
 - {from @ZinoviiYu} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
 
+## Load Balancing / Availability / Robustness / Scaling concenrns
+- How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/
+- HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer  http://www.haproxy.org/
+- 
+
 ## Security concerns
 - https://learn.javascript.ru/csrf
 - https://duo.com/docs/radius
 - https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
+- 
 
 ### devOps / serviceOps (general)
 - https://t.me/s/catops

@@ -1,11 +1,5 @@
 # App Perf Monitoring, related terms & tools 
 
-- NoSQL database : 
-> "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 
-
-- https://www.mongodb.com/nosql-explained 
-- https://www.trustradius.com/nosql-databases
-
 ## REST (API) : REpresentational State Transfer 
 - software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
@@ -51,6 +45,11 @@
 - https://dzone.com/articles/what-is-kafka
 - https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html
 - {from @ZinoviiYu} https://blog.newrelic.com/engineering/new-relic-kafkapocalypse/ 
+
+### NoSQL database : 
+> "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 
+- https://www.mongodb.com/nosql-explained 
+- https://www.trustradius.com/nosql-databases
 
 ### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor) 
 

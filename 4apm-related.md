@@ -59,6 +59,18 @@
 - https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
 - 
 
+### Pagerduty (vs Victorops) vs Opsgenie 
+- [PagerDuty vs Opsgenie | Why PagerDuty?](https://www.pagerduty.com/vs/opsgenie/)
+- [Opsgenie vs. PagerDuty | Alternative to PagerDuty](https://www.atlassian.com/software/opsgenie/comparison/pagerduty)
+- [Why VictorOps is the DevOps Alternative to Opsgenie | VictorOps](https://victorops.com/opsgenie-alternative/)
+- https://www.reddit.com/r/devops/comments/g34drp/pagerduty_vs_victorops_vs_opsgenie/
+- [OpsGenie vs PagerDuty | What are the differences?](https://stackshare.io/stackups/opsgenie-vs-pagerduty#:~:text=OpsGenie%20is%20a%20cloud%2Dbased,call%20schedule%20management%2C%20and%20escalations.&text=PagerDuty%20is%20an%20alarm%20aggregation,system%20administrators%20and%20support%20teams.)
+- [OpsGenie vs PagerDuty | TrustRadius](https://www.trustradius.com/compare-products/opsgenie-vs-pagerduty)
+- [Which is better, PagerDuty, VictorOps, or OpsGenie? - Quora](https://www.quora.com/Which-is-better-PagerDuty-VictorOps-or-OpsGenie)
+- [5 reasons why Zenduty is a great alternative to Opsgenie, Pagerduty, and VictorOps(O/P/V) | by Vishwa Krishnakumar | Zenduty | Medium](https://medium.com/zenduty/5-reasons-why-zenduty-is-a-great-alternative-to-opsgenie-pagerduty-and-victorops-o-p-v-9befbedddf8f)
+- https://sourceforge.net/software/compare/Opsgenie-vs-PagerDuty/
+- 
+
 ## Load Balancing / Availability / Robustness / Scaling concenrns
 - How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/
 - HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer  http://www.haproxy.org/

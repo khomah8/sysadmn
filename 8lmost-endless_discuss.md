@@ -18,8 +18,8 @@ comparision PD-vs-VO-vs-OG: {
 		- Do also check out Zenduty if you're looking for a more end-to-end incident alerting and response solution,,
 		- I work for OnPage ( https://www.onpage.com/incident-alert-management-for-it/ ) and we operate within IT alerting and incident orchestration.,,
 	},
-  
-  https://stackshare.io/stackups/opsgenie-vs-pagerduty {
+
+        https://stackshare.io/stackups/opsgenie-vs-pagerduty {
 	- OpsGenie: Alerting and On-Call Management for Dev&Ops Teams. OpsGenie is a cloud-based service for dev & ops teams, providing reliable alerts, on-call schedule management, and escalations. OpsGenie integrates with monitoring tools & services and ensures that the right people are at the right time; 
 	- PagerDuty: Incident management with powerful visibility, reliable alerting, and improved collaboration. PagerDuty is an alarm aggregation and dispatching service for system administrators and support teams. It collects alerts from your monitoring tools, gives you an overall view of all of your monitoring alarms, and alerts an on duty engineer if there's a problem.,,
 	- 

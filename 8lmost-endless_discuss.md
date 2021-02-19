@@ -3,6 +3,7 @@ such as https://stackshare.io/ https://www.reddit.com/ etc
 ## pagerduty_vs_victorops_vs_opsgenie 
 
 comparision PD-vs-VO-vs-OG: {
+
 	https://www.reddit.com/r/devops/comments/g34drp/pagerduty_vs_victorops_vs_opsgenie/: {
 		- whether or not you have a mature incident management procedures,,
 		- [ Victor Ops (prior to Splunk acquiring them) was very no frills, cost was good, but features; Ops Genie (prior to them getting acquired by Atlassian) was a good middle ground ],,

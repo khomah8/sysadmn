@@ -1,8 +1,8 @@
 #### temporary from Discussing-platforms 
 such as https://stackshare.io/ https://www.reddit.com/ etc 
-### pagerduty_vs_victorops_vs_opsgenie 
+### pagerduty _vs_ victorops _vs_ opsgenie 
 
-comparision PD-vs-VO-vs-OG: {
+comparision: {
 
 	https://www.reddit.com/r/devops/comments/g34drp/pagerduty_vs_victorops_vs_opsgenie/: {
 		- whether or not you have a mature incident management procedures,,
@@ -22,7 +22,12 @@ comparision PD-vs-VO-vs-OG: {
         https://stackshare.io/stackups/opsgenie-vs-pagerduty {
 		- OpsGenie: Alerting and On-Call Management for Dev&Ops Teams. OpsGenie is a cloud-based service for dev & ops teams, providing reliable alerts, on-call schedule management, and escalations. OpsGenie integrates with monitoring tools & services and ensures that the right people are at the right time; 
 		- PagerDuty: Incident management with powerful visibility, reliable alerting, and improved collaboration. PagerDuty is an alarm aggregation and dispatching service for system administrators and support teams. It collects alerts from your monitoring tools, gives you an overall view of all of your monitoring alarms, and alerts an on duty engineer if there's a problem.,,
-		- 
+		- PagerDuty provides the following key features:
+			- Alerting that works (and wakes you up)- When your systems go down, PagerDuty will wake you up. You choose how you want to be alerted - via phone, SMS or email, to multiple numbers, with retries.
+			- Integrate all your existing monitoring tools- PagerDuty works great with almost all monitoring tools including: Nagios (and Icinga), Keynote, New Relic, Pingdom, Circonus, Red Gate SQL Monitor, Server Density, Zenoss, Monit, Munin, SolarWinds and many others. If it can send email, it will work with PagerDuty.
+			- Native apps with push notifications- iOS and Android native apps with push notifications and a cross-platform mobile website ensure you can respond to alerts wherever you are, even on the go.,,
+		- "Just works" was stated as the key factor in picking PagerDuty,,
+		- Slack, Stack Exchange, and Stripe are some of the popular companies that use PagerDuty,,
 	}
 
 }

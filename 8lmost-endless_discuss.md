@@ -1,5 +1,10 @@
 #### temporary from Discussing-platforms 
-such as https://stackshare.io/ https://www.reddit.com/ etc 
+such as 
+- https://stackshare.io/ 
+- https://www.reddit.com/ 
+- https://stackoverflow.com 
+- https://superuser.com etc
+
 ### pagerduty _vs_ victorops _vs_ opsgenie 
 
 comparision: {
@@ -32,4 +37,3 @@ comparision: {
 
 }
 
-## Come and check https://stackoverflow.com and https://superuser.com too !

@@ -1,5 +1,5 @@
 Buddy Program and Guidelines
-Adi Lavric	12/8/2019	Revisions
+Adi Lavric	12/8/2019	
 ## New Employee On-boarding: Buddy Program and Guidelines
 ### What is a Buddy?
 

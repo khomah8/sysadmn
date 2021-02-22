@@ -87,4 +87,4 @@
 - https://www.youtube.com/watch?v=8eH3k4BxV6k&
 - https://www.devops-research.com/research.html
 - https://system-admins.ru/devops-engineer/
-- 
+- https://en.wikipedia.org/wiki/Azure_DevOps_Server#:~:text=formerly%20Team%20Foundation%20Server%20(TFS

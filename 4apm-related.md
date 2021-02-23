@@ -88,25 +88,30 @@
 - https://www.devops-research.com/research.html
 - https://system-admins.ru/devops-engineer/
 - https://en.wikipedia.org/wiki/Azure_DevOps_Server#:~:text=formerly%20Team%20Foundation%20Server%20(TFS 
-- SRE (conception): { 
+- SRE (concept): { 
   - https://en.wikipedia.org/wiki/Site_reliability_engineering: { 
 
 __SRE satisfies `the [5] DevOps pillars` as follows:__
 1) Reduce `organizational silos`
-    - SRE shares ownership with developers to create shared responsibility[5]
+    - SRE shares ownership with developers to create shared responsibility
     - SREs use the same tools that developers use, and vice versa
 2) Accept `failure as normal`
     - SREs embrace risk[6]
-    - SRE quantifies failure and availability in a prescriptive manner using Service Level Indicators (SLIs) and Service Level Objectives (SLOs)[7]
-    - SRE mandates blameless post mortems[8]
-3) Implement `gradual changes` 
-    - SRE encourages developers and product owners to move quickly by reducing the cost of failure[6]
+    - SRE quantifies failure and availability in a prescriptive manner using [Service Level Indicators](https://en.wikipedia.org/wiki/Service_Level_Indicator) (SLIs) and [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective) (SLOs)
+    - SRE mandates blameless post mortems
+3) Implement `gradual changes`
+    - SRE encourages developers and product owners to move quickly by reducing the cost of failure
 4) Leverage `tooling and automation`
-    - SREs have a charter to automate manual tasks (called "toil") away[9] 
+    - SREs have a charter to automate manual tasks (called "toil") away 
 5) `Measure everything`
-    - SRE defines prescriptive ways to measure values[10]
-    - SRE fundamentally believes that systems operation is a software problem }
+    - SRE defines prescriptive ways to measure values
+    - SRE fundamentally believes that systems operation is a software problem 
+  }
 
   - https://sre.google/
-}
+  - https://www.redhat.com/en/topics/devops/what-is-sre#
+  - https://www.overops.com/blog/devops-vs-sre-whats-the-difference-between-them-and-which-one-are-you/ {2018}
+  - https://www.atlassian.com/incident-management/devops/sre
+  - https://victorops.com/blog/site-reliability-engineer-sre-roles-and-responsibilities {2019}
 
+}

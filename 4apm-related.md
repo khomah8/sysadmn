@@ -107,7 +107,7 @@ __SRE satisfies `the [5] DevOps pillars` as follows:__
     - SRE defines prescriptive ways to measure values
     - SRE fundamentally believes that systems operation is a software problem 
 
-}
+    }
 
     - https://sre.google/
     - https://www.redhat.com/en/topics/devops/what-is-sre#

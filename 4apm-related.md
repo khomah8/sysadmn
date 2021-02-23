@@ -89,22 +89,24 @@
 - https://system-admins.ru/devops-engineer/
 - https://en.wikipedia.org/wiki/Azure_DevOps_Server#:~:text=formerly%20Team%20Foundation%20Server%20(TFS 
 - SRE (conception): { 
-  - https://en.wikipedia.org/wiki/Site_reliability_engineering { 
-__SRE satisfies the DevOps pillars as follows:__
-1) Reduce organizational silos
+  - https://en.wikipedia.org/wiki/Site_reliability_engineering: { 
+
+__SRE satisfies `the [5] DevOps pillars` as follows:__
+1) Reduce `organizational silos`
     - SRE shares ownership with developers to create shared responsibility[5]
     - SREs use the same tools that developers use, and vice versa
-2) Accept failure as normal
+2) Accept `failure as normal`
     - SREs embrace risk[6]
     - SRE quantifies failure and availability in a prescriptive manner using Service Level Indicators (SLIs) and Service Level Objectives (SLOs)[7]
     - SRE mandates blameless post mortems[8]
-3) Implement gradual changes 
+3) Implement `gradual changes` 
     - SRE encourages developers and product owners to move quickly by reducing the cost of failure[6]
-4) Leverage tooling and automation
+4) Leverage `tooling and automation`
     - SREs have a charter to automate manual tasks (called "toil") away[9] 
-5) Measure everything
+5) `Measure everything`
     - SRE defines prescriptive ways to measure values[10]
     - SRE fundamentally believes that systems operation is a software problem }
 
   - https://sre.google/
 }
+

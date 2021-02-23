@@ -106,12 +106,13 @@ __SRE satisfies `the [5] DevOps pillars` as follows:__
 5) `Measure everything`
     - SRE defines prescriptive ways to measure values
     - SRE fundamentally believes that systems operation is a software problem 
-  }
 
-  - https://sre.google/
-  - https://www.redhat.com/en/topics/devops/what-is-sre#
-  - https://www.overops.com/blog/devops-vs-sre-whats-the-difference-between-them-and-which-one-are-you/ {2018}
-  - https://www.atlassian.com/incident-management/devops/sre
-  - https://victorops.com/blog/site-reliability-engineer-sre-roles-and-responsibilities {2019}
+}
+
+    - https://sre.google/
+    - https://www.redhat.com/en/topics/devops/what-is-sre#
+    - https://www.overops.com/blog/devops-vs-sre-whats-the-difference-between-them-and-which-one-are-you/ {2018}
+    - https://www.atlassian.com/incident-management/devops/sre
+    - https://victorops.com/blog/site-reliability-engineer-sre-roles-and-responsibilities {2019}
 
 }

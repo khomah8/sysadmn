@@ -91,7 +91,7 @@
 - SRE (concept): { 
   - https://en.wikipedia.org/wiki/Site_reliability_engineering: { 
 
-__SRE satisfies `the [5] DevOps pillars` as follows:__
+__SRE satisfies `the DevOps [five] pillars` as follows:__
 1) Reduce `organizational silos`
     - SRE shares ownership with developers to create shared responsibility
     - SREs use the same tools that developers use, and vice versa

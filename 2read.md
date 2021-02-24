@@ -6,6 +6,11 @@ TEMP links
 - https://medium.com/swlh/strikethrough-using-html5-26fea2020a72 [worth to think about it]
 - 
 
+## new [for me] terms def
+
+- https://jfrog.com/knowledge-base/what-is-a-software-artifact/
+- 
+
 ## brain-storming 
 
 - median VS average { 

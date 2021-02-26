@@ -26,6 +26,7 @@
 ### YAML (language) : (a recursive acronym for "YAML Ain't Markup Language") 
 > human-readable data-serialization language, commonly used for configuration files and in applications... targets many of the same communications applications as XML... uses both `Python-style indentation` to indicate nesting, and a more compact format - so that `JSON files are valid YAML 1.2`. 
 > is simply a data-representation language,.. integration with other languages allows `Perl parsers`, for example, which can execute Perl code. [wiki](https://en.wikipedia.org/wiki/YAML)
+- https://yaml.org/spec/
 - https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started/
 - https://blog.stackpath.com/yaml/
 

@@ -16,7 +16,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
 
 ### JSON (objects / documents) : (JavaScript Object Notation) 
-> an open standard file format, and data interchange format, that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value) [wiki](https://en.wikipedia.org/wiki/JSON)
+> an open standard file format, and data interchange format, uses human-readable text to store and transmit data objects consisting of `attribute–value pairs` and `array data` types (or any other serializable value) [wiki](https://en.wikipedia.org/wiki/JSON)
 - https://www.json.org/json-en.html
 - https://jsonapi.org/ 
 - https://www.w3schools.com/js/js_json_intro.asp { with live [script examples](https://www.w3schools.com/js/tryit.asp?filename=tryjson_receive) }
@@ -24,11 +24,12 @@
 - [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)
 
 ### YAML (language) : (a recursive acronym for "YAML Ain't Markup Language") 
-> human-readable data-serialization language, commonly used for configuration files and in applications... targets many of the same communications applications as Extensible Markup Language (XML)... uses both __Python-style indentation__ to indicate nesting, and a more compact format -- so that JSON files are valid YAML 1.2. [wiki](https://en.wikipedia.org/wiki/YAML)
+> human-readable data-serialization language, commonly used for configuration files and in applications... targets many of the same communications applications as XML... uses both `Python-style indentation` to indicate nesting, and a more compact format - so that `JSON files are valid YAML 1.2`. 
+> is simply a data-representation language,.. integration with other languages allows `Perl parsers`, for example, which can execute Perl code. [wiki](https://en.wikipedia.org/wiki/YAML)
 - https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started/
 - https://blog.stackpath.com/yaml/
 
-## VM, Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
+## Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
 - https://habr.com/ru/company/virtuozzo/blog/319998/
 - https://gigacloud.ua/blog/navchannja/chomu-kontejneri-ce-majbutne-virtualizacii
 - https://www.bigdataschool.ru/blog/containers-big-data.html

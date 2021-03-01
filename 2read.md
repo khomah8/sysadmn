@@ -36,6 +36,7 @@ TEMP links
 }
 
 - https://en.wikipedia.org/wiki/Information_silo \традиционные отделы в организациях как "колодцы", не позволяющие распределить потоки инфо\
+- https://en.wikipedia.org/wiki/Indigo_Era { VEON, LetterOne, Mikhail M Fridman 21-April-1964, ... }
 - 
 
 ### offtop 

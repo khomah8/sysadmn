@@ -77,7 +77,7 @@
 - [5 reasons why Zenduty is a great alternative to Opsgenie, Pagerduty, and VictorOps(O/P/V) | by Vishwa Krishnakumar | Zenduty | Medium](https://medium.com/zenduty/5-reasons-why-zenduty-is-a-great-alternative-to-opsgenie-pagerduty-and-victorops-o-p-v-9befbedddf8f)
 - https://sourceforge.net/software/compare/Opsgenie-vs-PagerDuty/
 - https://www.itcentralstation.com/products/comparisons/opsgenie_vs_pagerduty_vs_victorops
-- https://www.youtube.com/watch?v=DXVNpGVEYQ4 ( OpsGenie )
+- https://www.youtube.com/watch?v=DXVNpGVEYQ4 ( OpsGenie :tv: )
 
 ## Load Balancing / Availability / Robustness / Scaling concenrns
 - How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/

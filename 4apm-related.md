@@ -65,6 +65,11 @@
 #### Microsoft Message Queuing, MSMQ : [wiki](https://en.wikipedia.org/wiki/Microsoft_Message_Queuing) 
 - https://docs.microsoft.com/en-us/previous-versions/ms834460(v=msdn.10)
 
+### DB (database) monitoring tools : 
+- https://www.spotlightcloud.io/
+- NewRelic (`APM` \ `Explorer` )
+- PRTG sensors (`Maps` \ `Libraries` ) 
+
 #### NoSQL database : 
 > "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 
 - https://www.mongodb.com/nosql-explained 

@@ -99,7 +99,7 @@
 #### CMS, Collaboration and Knowledge-sharing 
 - https://en.wikipedia.org/wiki/Redmine
 - Jira Support ( Atlassian ) https://www.atlassian.com/software/jira/service-management
-- 
+- https://www.customerzone360.com/topics/customer/articles/441500-kms-vs-cms-what-the-differences.htm 
 
 
 ### Load Balancing / Availability / Robustness / Scaling concenrns

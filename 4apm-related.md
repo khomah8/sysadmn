@@ -96,6 +96,12 @@
 - [Intro to Atlassian's Opsgenie](https://www.youtube.com/watch?v=prZI-MILa7M) ( timing 33:30 )
 
 
+#### CMS, Collaboration and Knowledge-sharing 
+- https://en.wikipedia.org/wiki/Redmine
+- Jira Support ( Atlassian ) https://www.atlassian.com/software/jira/service-management
+- 
+
+
 ### Load Balancing / Availability / Robustness / Scaling concenrns
 - How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/
 - HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer  http://www.haproxy.org/

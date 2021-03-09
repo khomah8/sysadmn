@@ -69,6 +69,7 @@
 - https://www.spotlightcloud.io/
 - NewRelic (`APM` \ `Explorer` )
 - PRTG sensors (`Maps` \ `Libraries` ) 
+- https://www.sqlskills.com/sql-server-resources/
 
 #### NoSQL database : 
 > "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 

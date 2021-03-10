@@ -45,10 +45,10 @@
 - https://gigacloud.ua/blog/navchannja/chomu-kontejneri-ce-majbutne-virtualizacii
 - https://www.bigdataschool.ru/blog/containers-big-data.html
 - https://docs.microsoft.com/ru-ru/virtualization/windowscontainers/about/containers-vs-vm
-- youtube 
-    - "Виртуализация или контейнеры ? В чем разница ?"  https://www.youtube.com/watch?v=NWhc96LbDME --> https://system-admins.ru/teoriya-primery-virtualizacii/ 
-    - Контейнерная виртуализация в Linux - YouTube  https://www.youtube.com/watch?v=rJRLZfk3a8U
-    - "007. Виртуализация и контейнеризация" - Антон Конвалюк - YouTube  https://www.youtube.com/watch?v=YsQAAaNpw6Y
+- YouTube 
+    - "Виртуализация или контейнеры ? В чем разница ?" :tv:  https://www.youtube.com/watch?v=NWhc96LbDME --> https://system-admins.ru/teoriya-primery-virtualizacii/ 
+    - Контейнерная виртуализация в Linux :tv:  https://www.youtube.com/watch?v=rJRLZfk3a8U
+    - "007. Виртуализация и контейнеризация" - Антон Конвалюк :tv:  https://www.youtube.com/watch?v=YsQAAaNpw6Y
 - NGINX Ingress Controller - NGINX   https://www.nginx.com/products/nginx-ingress-controller/
 - How it works - NGINX Ingress Controller  https://kubernetes.github.io/ingress-nginx/how-it-works/
 
@@ -71,11 +71,11 @@
 - PRTG sensors (`Maps` \ `Libraries` ) 
 - https://www.sqlskills.com/sql-server-resources/
 - https://aboutsqlserver.com/
-- deadlock 
+- deadlock mssql 
     - [What are SQL Server deadlocks and how to monitor them](https://www.sqlshack.com/what-are-sql-server-deadlocks-and-how-to-monitor-them/), [SQL Server deadlock definition and Overview](https://www.sqlshack.com/what-is-a-sql-server-deadlock/)
     - [Lesson on SQL Server Deadlocks and how to solve](https://www.mssqltips.com/sqlservertip/5100/lesson-on-sql-server-deadlocks-and-how-to-solve/)
     - [Understanding SQL Server Deadlocks - DEV Community](https://dev.to/techelevator/understanding-sql-server-deadlocks-2ej6)
-    - [SQL Server deadlock example :tv:](https://www.youtube.com/watch?v=7qUBV2bAbsQ)
+    - [SQL Server deadlock example :tv:](https://www.youtube.com/watch?v=7qUBV2bAbsQ) & [text](https://csharp-video-tutorials.blogspot.com/2015/08/sql-server-deadlock-example.html)
 
 #### NoSQL database : 
 > "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 

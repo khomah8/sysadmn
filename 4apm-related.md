@@ -71,6 +71,11 @@
 - PRTG sensors (`Maps` \ `Libraries` ) 
 - https://www.sqlskills.com/sql-server-resources/
 - https://aboutsqlserver.com/
+- deadlock 
+    - [What are SQL Server deadlocks and how to monitor them](https://www.sqlshack.com/what-are-sql-server-deadlocks-and-how-to-monitor-them/), [SQL Server deadlock definition and Overview](https://www.sqlshack.com/what-is-a-sql-server-deadlock/)
+    - [Lesson on SQL Server Deadlocks and how to solve](https://www.mssqltips.com/sqlservertip/5100/lesson-on-sql-server-deadlocks-and-how-to-solve/)
+    - [Understanding SQL Server Deadlocks - DEV Community](https://dev.to/techelevator/understanding-sql-server-deadlocks-2ej6)
+    - [SQL Server deadlock example :tv:](https://www.youtube.com/watch?v=7qUBV2bAbsQ)
 
 #### NoSQL database : 
 > "non-relational" DB provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases [wiki](https://en.wikipedia.org/wiki/NoSQL) 
@@ -95,7 +100,7 @@
 - https://sourceforge.net/software/compare/Opsgenie-vs-PagerDuty/
 - https://www.itcentralstation.com/products/comparisons/opsgenie_vs_pagerduty_vs_victorops
 - https://www.youtube.com/watch?v=DXVNpGVEYQ4 ( OpsGenie :tv: timing 02:40 minutes )
-- [Intro to Atlassian's Opsgenie](https://www.youtube.com/watch?v=prZI-MILa7M) ( timing 33:30 )
+- [Intro to Atlassian's Opsgenie :tv:](https://www.youtube.com/watch?v=prZI-MILa7M) ( timing 33:30 )
 
 
 #### CMS, Collaboration and Knowledge-sharing 

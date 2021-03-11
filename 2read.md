@@ -4,12 +4,12 @@ TEMP links
 - https://www.opennet.ru/base/sec/ssl_sertifacition.txt.html
 - https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp ["кружок электроники" 2020х]
 - https://medium.com/swlh/strikethrough-using-html5-26fea2020a72 [worth to think about it]
-- 
+- ✈️
 
 ## new [for me] terms def
 
 - https://jfrog.com/knowledge-base/what-is-a-software-artifact/
-- 
+- 🔤
 
 ## brain-storming 
 
@@ -34,10 +34,9 @@ TEMP links
     - The `arithmetic mean`, [geometric mean](https://static.diffen.com/uploadz/math/c/9/8/c982938aa16f0782fa52d6a92afecc48.png) and [harmonic mean](https://static.diffen.com/uploadz/math/5/f/4/5f4eaad9f41faac3476425e2fb7a58d6.png) together form a set of means called the [Pythagorean means](https://en.wikipedia.org/wiki/Pythagorean_means). Harmonic mean ≤ Geometric mean ≤ Arithmetic mean 
   }  
 }
-
 - https://en.wikipedia.org/wiki/Information_silo \традиционные отделы в организациях как "колодцы", не позволяющие распределить потоки инфо\
 - https://en.wikipedia.org/wiki/Indigo_Era { VEON, LetterOne, Mikhail M Fridman 21-April-1964, ... }
-- 
+- 🧠
 
 ### offtop 
 - [«Мимино́» (груз. მიმინო) — советский комедийный художественный фильм режиссёра Георгия Данелии](https://ru.wikiquote.org/wiki/%D0%9C%D0%B8%D0%BC%D0%B8%D0%BD%D0%BE)

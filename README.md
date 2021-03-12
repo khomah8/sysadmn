@@ -13,6 +13,7 @@ tagged: #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #ap
 - https://sentry.io/for/performance/
 - https://www.nagios.com/solutions/web-application-monitoring/
 - https://www.pingdom.com/blog/best-practices-for-web-app-monitoring/
+- http://uptimerobot.com/ ( usesd [Caddy - The Ultimate Server with Automatic HTTPS](https://caddyserver.com/) )
 - https://www.apmdigest.com/the-anatomy-of-apm-4-foundational-elements-to-a-successful-strategy `"APM is "the translation of IT metrics into business meaning ([i.e.] value)"`
 
 ### [APM tools comparison]

@@ -121,12 +121,15 @@
 - https://www.varonis.com/blog/what-is-siem/ 
 
 ### devOps / serviceOps (general)
-- https://t.me/s/catops
-- video 📺 : 
-    - [,,,](https://www.youtube.com/watch?v=8eH3k4BxV6k) 
-    - [Measuring DevOps: The Key Metric That Matters - Anders Wallgren](https://www.youtube.com/watch?v=7HBPtoLE2r8)
-- https://www.devops-research.com/research.html
-- https://system-admins.ru/devops-engineer/
+- [ 15 Metrics for DevOps Success ](https://stackify.com/15-metrics-for-devops-success/)
+- [ 7 DevOps Practices | DevOps Principles ](https://www.perforce.com/blog/vcs/7-devops-practices-outstanding-results)  🕖
+- [ Measuring DevOps ](https://newrelic.com/devops/measuring-devops)
+- https://t.me/s/catops 😺
+- videos 💯
+    - [Барух Садогурский — У нас DevOps. Давайте уволим всех тестировщиков](https://www.youtube.com/watch?v=8eH3k4BxV6k)  📺 [46:11]
+    - [Measuring DevOps: The Key Metric That Matters - Anders Wallgren](https://www.youtube.com/watch?v=7HBPtoLE2r8)  📺 [29:31]
+- https://www.devops-research.com/research.html 
+- https://system-admins.ru/devops-engineer/ 
 - https://en.wikipedia.org/wiki/Azure_DevOps_Server#:~:text=formerly%20Team%20Foundation%20Server%20(TFS 
 - SRE (concept): { 
   - https://en.wikipedia.org/wiki/Site_reliability_engineering: { 

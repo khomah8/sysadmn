@@ -122,7 +122,9 @@
 
 ### devOps / serviceOps (general)
 - https://t.me/s/catops
-- https://www.youtube.com/watch?v=8eH3k4BxV6k&
+- video 📺 : 
+    - [,,,](https://www.youtube.com/watch?v=8eH3k4BxV6k) 
+    - [Measuring DevOps: The Key Metric That Matters - Anders Wallgren](https://www.youtube.com/watch?v=7HBPtoLE2r8)
 - https://www.devops-research.com/research.html
 - https://system-admins.ru/devops-engineer/
 - https://en.wikipedia.org/wiki/Azure_DevOps_Server#:~:text=formerly%20Team%20Foundation%20Server%20(TFS 

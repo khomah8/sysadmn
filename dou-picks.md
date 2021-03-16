@@ -9,5 +9,6 @@ it's time-to-learn :
   - [planning, [capacity, [dependencies, [releases, 
   - conflicts, delays, issues, constraints, hierarchy, scenarios, 
   - backlog, user-story, epics, 
+  - Service / Help Desk 
 
 - 

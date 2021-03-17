@@ -64,6 +64,7 @@
 
 #### Microsoft Message Queuing, MSMQ : [wiki](https://en.wikipedia.org/wiki/Microsoft_Message_Queuing) 
 - https://docs.microsoft.com/en-us/previous-versions/ms834460(v=msdn.10)
+- https://www.paessler.com/manuals/prtg/windows_msmq_queue_length_sensor (PRTG sensor)
 
 ### DB (database) monitoring tools : 
 - https://www.spotlightcloud.io/

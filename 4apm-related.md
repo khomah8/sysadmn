@@ -72,7 +72,7 @@
 - PRTG sensors (`Maps` \ `Libraries` ) 
 - https://www.sqlskills.com/sql-server-resources/
 - https://aboutsqlserver.com/
-- deadlock mssql 
+- deadlock mssql  ⚾ 🎪 🛂 
     - [What are SQL Server deadlocks and how to monitor them](https://www.sqlshack.com/what-are-sql-server-deadlocks-and-how-to-monitor-them/), [SQL Server deadlock definition and Overview](https://www.sqlshack.com/what-is-a-sql-server-deadlock/)
     - [Lesson on SQL Server Deadlocks and how to solve](https://www.mssqltips.com/sqlservertip/5100/lesson-on-sql-server-deadlocks-and-how-to-solve/)
     - [Understanding SQL Server Deadlocks - DEV Community](https://dev.to/techelevator/understanding-sql-server-deadlocks-2ej6)
@@ -88,8 +88,9 @@
 > __Paessler Router Traffic Grapher until version 7__ is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
 - https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
 - https://kb.paessler.com/en/topic/66113-how-can-prtg-send-notifications-to-slack (integration with #Slack)
+- {practical-task} [Maps design](https://www.paessler.com/manuals/prtg/maps_designer)
 
-#### Pagerduty (vs Victorops) vs Opsgenie 
+#### Pagerduty (vs Victorops) vs Opsgenie  🚧 🎵 🚂 
 - [PagerDuty vs Opsgenie | Why PagerDuty?](https://www.pagerduty.com/vs/opsgenie/)
 - [Opsgenie vs. PagerDuty | Alternative to PagerDuty](https://www.atlassian.com/software/opsgenie/comparison/pagerduty)
 - [Why VictorOps is the DevOps Alternative to Opsgenie | VictorOps](https://victorops.com/opsgenie-alternative/)
@@ -104,7 +105,7 @@
 - [Intro to Atlassian's Opsgenie :tv:](https://www.youtube.com/watch?v=prZI-MILa7M) ( timing 33:30 )
 
 
-#### CMS, Collaboration and Knowledge-sharing 
+#### CMS, Collaboration and Knowledge-sharing  🏫 🀄 🐮 
 - https://en.wikipedia.org/wiki/Redmine
 - Jira Support ( Atlassian ) https://www.atlassian.com/software/jira/service-management
 - https://www.customerzone360.com/topics/customer/articles/441500-kms-vs-cms-what-the-differences.htm 
@@ -114,6 +115,7 @@
 - How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/
 - HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer  http://www.haproxy.org/
 
+
 ### Security concerns / SIEM 
 - https://learn.javascript.ru/csrf
 - https://duo.com/docs/radius
@@ -121,7 +123,7 @@
 - https://en.wikipedia.org/wiki/Nessus_(software) 
 - https://www.varonis.com/blog/what-is-siem/ 
 
-### devOps / serviceOps (general)
+### devOps / serviceOps (general)  🆒 ⛰️ 🎲 
 - [ 15 Metrics for DevOps Success ](https://stackify.com/15-metrics-for-devops-success/)
 - [ 7 DevOps Practices | DevOps Principles ](https://www.perforce.com/blog/vcs/7-devops-practices-outstanding-results)  🕖
 - [ Measuring DevOps ](https://newrelic.com/devops/measuring-devops)
@@ -135,7 +137,7 @@
 - SRE (concept): { 
   - https://en.wikipedia.org/wiki/Site_reliability_engineering: { 
 
-__SRE satisfies `the DevOps [five] pillars` as follows:__
+__SRE satisfies `the DevOps [five] pillars` as follows:__ 
 1) Reduce `organizational silos`
     - SRE shares ownership with developers to create shared responsibility
     - SREs use the same tools that developers use, and vice versa

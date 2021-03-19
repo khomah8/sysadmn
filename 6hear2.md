@@ -12,6 +12,7 @@ for light mood:  :sunny:  :milky_way:  :rainbow:
 - https://soundcloud.com/light_jazz
 - https://soundcloud.com/irish-cream/sets/2002-irish-cream
 - https://soundcloud.com/trychi-ponedilok
+- https://soundcloud.com/gurt_astarta
 - 
 
 :performing_arts:  :aquarius:  :heart_decoration:  for iMagi(c)nation: 

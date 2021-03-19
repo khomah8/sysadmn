@@ -72,7 +72,7 @@
 - PRTG sensors (`Maps` \ `Libraries` ) 
 - https://www.sqlskills.com/sql-server-resources/
 - https://aboutsqlserver.com/
-- deadlock mssql  ⚾ 🎪 🛂 
+- deadlock mssql  ⚾  
     - [What are SQL Server deadlocks and how to monitor them](https://www.sqlshack.com/what-are-sql-server-deadlocks-and-how-to-monitor-them/), [SQL Server deadlock definition and Overview](https://www.sqlshack.com/what-is-a-sql-server-deadlock/)
     - [Lesson on SQL Server Deadlocks and how to solve](https://www.mssqltips.com/sqlservertip/5100/lesson-on-sql-server-deadlocks-and-how-to-solve/)
     - [Understanding SQL Server Deadlocks - DEV Community](https://dev.to/techelevator/understanding-sql-server-deadlocks-2ej6)
@@ -83,12 +83,13 @@
 - https://www.mongodb.com/nosql-explained 
 - https://www.trustradius.com/nosql-databases
 
-#### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor) 
+#### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor)  🎹 💚 🎺 
 
 > __Paessler Router Traffic Grapher until version 7__ is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
 - https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
 - https://kb.paessler.com/en/topic/66113-how-can-prtg-send-notifications-to-slack (integration with #Slack)
-- {practical-task} [Maps design](https://www.paessler.com/manuals/prtg/maps_designer)
+- {practical-task} [Maps design](https://www.paessler.com/manuals/prtg/maps_designer) 
+- {practical-task} [Lib-s design](https://www.paessler.com/manuals/prtg/libraries_step_by_step) 
 
 #### Pagerduty (vs Victorops) vs Opsgenie  🚧 🎵 🚂 
 - [PagerDuty vs Opsgenie | Why PagerDuty?](https://www.pagerduty.com/vs/opsgenie/)

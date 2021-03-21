@@ -84,7 +84,6 @@
 - https://www.trustradius.com/nosql-databases
 
 #### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor)  🎹 💚 🎺 
-
 > __Paessler Router Traffic Grapher until version 7__ is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
 - https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
 - https://kb.paessler.com/en/topic/66113-how-can-prtg-send-notifications-to-slack (integration with #Slack)
@@ -106,11 +105,20 @@
 - [Intro to Atlassian's Opsgenie :tv:](https://www.youtube.com/watch?v=prZI-MILa7M) ( timing 33:30 )
 
 
+### theory of SW-DEV : methodology, cases, terms, definitions  🚡 🟩 💫 
+- playbook \/ runbook : {
+	`"According to Accenture, a playbook includes` “process workflows, standard operating procedures, and cultural values that shape a consistent response—the play. A playbook reflects a plan; an approach or strategy defining predetermined responses worked out ahead of time.”May 29, 2018", 
+	`"Operations runbooks, often simply called runbooks,` are a set of standardized documents, references, and procedures used to describe common IT tasks. Runbooks are created for the purpose of walking someone through the steps necessary for accomplishing a specific task or troubleshooting a particular issue.May 21, 2020"`,
+	- [fool](https://www.fool.com/the-blueprint/runbook/#:~:text=Runbooks%20are%20often%20confused%20with,runbooks%20and%20personnel%20within%20them.): `While runbooks define individual processes, playbooks deal with overarching responses to larger issues or events and may incorporate multiple runbooks and personnel within them. .....`, ![This security incident playbook incorporates relevant runbook documentation within its workflow](https://m.foolcdn.com/media/the-blueprint/images/Runbooks_02_playbook_process.width-800.png?width=600)
+	- [_biz_](https://sterlingwoods.com/blog/business-playbook/) 
+	- [bmc](https://www.bmc.com/blogs/operations-runbook/) 
+}
+- 
+
 #### CMS, Collaboration and Knowledge-sharing  🏫 🀄 🐮 
 - https://en.wikipedia.org/wiki/Redmine
 - Jira Support ( Atlassian ) https://www.atlassian.com/software/jira/service-management
 - https://www.customerzone360.com/topics/customer/articles/441500-kms-vs-cms-what-the-differences.htm 
-
 
 ### Load Balancing / Availability / Robustness / Scaling concenrns
 - How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/

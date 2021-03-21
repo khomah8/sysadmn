@@ -9,12 +9,12 @@ such as
 
 
 ### theory of SW-DEV : methodology, cases, terms, definitions  🚡 🟩 💫 
-- playbook / runbook : {
+- playbook \/ runbook : {
 	`"According to Accenture, a playbook includes` “process workflows, standard operating procedures, and cultural values that shape a consistent response—the play. A playbook reflects a plan; an approach or strategy defining predetermined responses worked out ahead of time.”May 29, 2018", 
 	`"Operations runbooks, often simply called runbooks,` are a set of standardized documents, references, and procedures used to describe common IT tasks. Runbooks are created for the purpose of walking someone through the steps necessary for accomplishing a specific task or troubleshooting a particular issue.May 21, 2020"`,
-	- [fool](https://www.fool.com/the-blueprint/runbook/#:~:text=Runbooks%20are%20often%20confused%20with,runbooks%20and%20personnel%20within%20them.), 
-	- [_biz_](https://sterlingwoods.com/blog/business-playbook/)
-	- [bmc](https://www.bmc.com/blogs/operations-runbook/)
+	- [fool](https://www.fool.com/the-blueprint/runbook/#:~:text=Runbooks%20are%20often%20confused%20with,runbooks%20and%20personnel%20within%20them.): `While runbooks define individual processes, playbooks deal with overarching responses to larger issues or events and may incorporate multiple runbooks and personnel within them. .....`, 
+	- [_biz_](https://sterlingwoods.com/blog/business-playbook/) 
+	- [bmc](https://www.bmc.com/blogs/operations-runbook/) 
 }
 - 
 

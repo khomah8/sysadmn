@@ -15,8 +15,9 @@ for light mood :  :sunny:  :milky_way:  :rainbow:
 - https://soundcloud.com/gurt_astarta
 - 
 
-for workcondition rythm :  🥁  🔋  🌤️  
-- https://soundcloud.com/sharkastic
+for work condition(s) rythm :  🥁  🔋  🌤️  
+- https://soundcloud.com/sharkastic  d&b
+- https://soundcloud.com/slightlydarkerblack  night-techno
 - 
 
 

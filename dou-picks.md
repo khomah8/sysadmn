@@ -10,9 +10,11 @@ it's time-to-learn :  📚 👓 🎧 🎤
   - conflicts, delays, issues, constraints, hierarchy, scenarios, 
   - backlog, user-story, epics, 
   - Service / Help Desk 
-- PRTG  ( ?? )
+- PRTG  ( practical )
+  - https://dou.ua/forums/topic/29865/ (pros VS contras)
+  - [Операционный мониторинг: подходы и инструменты](https://dou.ua/forums/topic/32560/)
 
-and.. time-to-flame :  🤔 🦩 ☢️ 🔋 
+and.. t2f [ time-to-flame ] :  🤔 🦩 ☢️ 🔋 
 - https://dou.ua/forums/topic/33040/ (17 березня, 17:50 -- Yegor Chumakov -- Петиция против Дія Сіті. Почему нужно ее подписать)
 - 
 

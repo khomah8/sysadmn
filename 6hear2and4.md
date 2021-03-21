@@ -18,8 +18,8 @@ for light mood :  :sunny:  :milky_way:  :rainbow:
 for work condition(s) rythm :  🥁  🔋  🌤️  
 - https://soundcloud.com/sharkastic  d&b
 - https://soundcloud.com/slightlydarkerblack  night-techno
+- https://soundcloud.com/suricolbert/sets/lofi-4-studying  calm hip-hop
 - 
-
 
 :performing_arts:  :aquarius:  :heart_decoration:  for iMagi(c)nation: 
 - boooooo

@@ -21,6 +21,6 @@ for work condition(s) rythm :  🥁  🔋  🌤️
 - https://soundcloud.com/suricolbert/sets/lofi-4-studying  calm hip-hop
 - 
 
-:performing_arts:  :aquarius:  :heart_decoration:  for iMagi(c)nation: 
-- boooooo
+:performing_arts:  :aquarius:  :heart_decoration:  for iMagi(c)nation (LaNgUaGeS) : 
+- http://begin-english.ru/podkasty-dialogi-na-angliyskom 
 - 

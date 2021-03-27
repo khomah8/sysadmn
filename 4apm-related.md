@@ -9,6 +9,15 @@
 - [What is ITSM? The Beginner's Guide to IT Service Management](https://victorops.com/blog/what-is-itsm-the-beginners-guide-to-it-service-management)
 - [ Thank you | ITSM begineer's guide 2018 ](https://www.manageengine.com/products/service-desk/itsm/thank-you.html)
 
+### theory of SW-DEV : methodology, cases, definitions  🚡 🟩 💫 
+- playbook \/ runbook : {
+	`"According to Accenture, a playbook includes` “process workflows, standard operating procedures, and cultural values that shape a consistent response—the play. A playbook reflects a plan; an approach or strategy defining predetermined responses worked out ahead of time.”May 29, 2018", 
+	`"Operations runbooks, often simply called runbooks,` are a set of standardized documents, references, and procedures used to describe common IT tasks. Runbooks are created for the purpose of walking someone through the steps necessary for accomplishing a specific task or troubleshooting a particular issue.May 21, 2020"`,
+	- [fool](https://www.fool.com/the-blueprint/runbook/#:~:text=Runbooks%20are%20often%20confused%20with,runbooks%20and%20personnel%20within%20them.): `While runbooks define individual processes, playbooks deal with overarching responses to larger issues or events and may incorporate multiple runbooks and personnel within them. .....`, ![This security incident playbook incorporates relevant runbook documentation within its workflow](https://m.foolcdn.com/media/the-blueprint/images/Runbooks_02_playbook_process.width-800.png?width=600)
+	- [_biz_](https://sterlingwoods.com/blog/business-playbook/) 
+	- [bmc](https://www.bmc.com/blogs/operations-runbook/) 
+}
+
 
 ### REST (API) : REpresentational State Transfer 
 - software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
@@ -104,17 +113,6 @@
 - https://www.youtube.com/watch?v=DXVNpGVEYQ4 ( OpsGenie :tv: timing 02:40 minutes )
 - [Intro to Atlassian's Opsgenie :tv:](https://www.youtube.com/watch?v=prZI-MILa7M) ( timing 33:30 )
 
-
-### theory of SW-DEV : methodology, cases, terms, definitions  🚡 🟩 💫 
-- playbook \/ runbook : {
-	`"According to Accenture, a playbook includes` “process workflows, standard operating procedures, and cultural values that shape a consistent response—the play. A playbook reflects a plan; an approach or strategy defining predetermined responses worked out ahead of time.”May 29, 2018", 
-	`"Operations runbooks, often simply called runbooks,` are a set of standardized documents, references, and procedures used to describe common IT tasks. Runbooks are created for the purpose of walking someone through the steps necessary for accomplishing a specific task or troubleshooting a particular issue.May 21, 2020"`,
-	- [fool](https://www.fool.com/the-blueprint/runbook/#:~:text=Runbooks%20are%20often%20confused%20with,runbooks%20and%20personnel%20within%20them.): `While runbooks define individual processes, playbooks deal with overarching responses to larger issues or events and may incorporate multiple runbooks and personnel within them. .....`, ![This security incident playbook incorporates relevant runbook documentation within its workflow](https://m.foolcdn.com/media/the-blueprint/images/Runbooks_02_playbook_process.width-800.png?width=600)
-	- [_biz_](https://sterlingwoods.com/blog/business-playbook/) 
-	- [bmc](https://www.bmc.com/blogs/operations-runbook/) 
-}
-- 
-
 #### CMS, Collaboration and Knowledge-sharing  🏫 🀄 🐮 
 - https://en.wikipedia.org/wiki/Redmine
 - Jira Support ( Atlassian ) https://www.atlassian.com/software/jira/service-management
@@ -124,7 +122,6 @@
 - How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/
 - HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer  http://www.haproxy.org/
 
-
 ### Security concerns / SIEM 
 - https://learn.javascript.ru/csrf
 - https://duo.com/docs/radius
@@ -132,7 +129,7 @@
 - https://en.wikipedia.org/wiki/Nessus_(software) 
 - https://www.varonis.com/blog/what-is-siem/ 
 
-### devOps / serviceOps (general)  🆒 ⛰️ 🎲 
+### devOps / serviceOps  🆒 ⛰️ 🎲 
 - [ 15 Metrics for DevOps Success ](https://stackify.com/15-metrics-for-devops-success/)
 - [ 7 DevOps Practices | DevOps Principles ](https://www.perforce.com/blog/vcs/7-devops-practices-outstanding-results)  🕖
 - [ Measuring DevOps ](https://newrelic.com/devops/measuring-devops)

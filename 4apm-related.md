@@ -9,6 +9,18 @@
 - [What is ITSM? The Beginner's Guide to IT Service Management](https://victorops.com/blog/what-is-itsm-the-beginners-guide-to-it-service-management)
 - [ Thank you | ITSM begineer's guide 2018 ](https://www.manageengine.com/products/service-desk/itsm/thank-you.html)
 
+#### CMS, Collaboration and Knowledge-sharing  🏫 🀄 🐮 
+- https://en.wikipedia.org/wiki/Redmine
+- Jira Support ( Atlassian ) https://www.atlassian.com/software/jira/service-management
+- https://www.customerzone360.com/topics/customer/articles/441500-kms-vs-cms-what-the-differences.htm 
+
+### Security considerations / SIEM : 
+- https://learn.javascript.ru/csrf
+- https://duo.com/docs/radius
+- https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
+- https://en.wikipedia.org/wiki/Nessus_(software) 
+- https://www.varonis.com/blog/what-is-siem/ 
+
 ### theory of SW-DEV : methodology, cases, definitions  🚡 🟩 💫 
 - playbook \/ runbook : {
 	`"According to Accenture, a playbook includes` “process workflows, standard operating procedures, and cultural values that shape a consistent response—the play. A playbook reflects a plan; an approach or strategy defining predetermined responses worked out ahead of time.”May 29, 2018", 
@@ -18,12 +30,16 @@
 	- [bmc](https://www.bmc.com/blogs/operations-runbook/) 
 }
 
-
-### REST (API) : REpresentational State Transfer 
+#### REST (API) : REpresentational State Transfer 
 - software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
-#### HTTP connection explained:
+#### MSA (Microservices Architecture) : 
+- [Principles Of Microservices - Sam Newman on Vimeo](https://vimeo.com/131632250) 📺 [01:00:43]
+- [Software Architecture Guide](https://martinfowler.com/architecture/)
+- 
+
+#### HTTP connection explained : 
   - The _persistent network connection_ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.
   - Persistent connections _can improve overall system performance_ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.
   - The connection is _persistent by default for HTTP/1.1__ clients. _For HTTP/1.0 connections_, you need to explicitly indicate that you want a persistent connection by adding the `"Connection: keep-alive"` header.
@@ -34,7 +50,7 @@
 - https://reqbin.com/Article/Connection
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
 
-### JSON (objects / documents) : (JavaScript Object Notation) 
+#### JSON (objects / documents) : (JavaScript Object Notation) 
 > an open standard file format, and data interchange format, uses human-readable text to store and transmit data objects consisting of `attribute–value pairs` and `array data` types (or any other serializable value) [wiki](https://en.wikipedia.org/wiki/JSON)
 - https://www.json.org/json-en.html
 - https://jsonapi.org/ 
@@ -42,14 +58,14 @@
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 
 - [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)
 
-### YAML (language) : (a recursive acronym for "YAML Ain't Markup Language") 
+#### YAML (language) : (a recursive acronym for "YAML Ain't Markup Language") 
 > human-readable data-serialization language, commonly used for configuration files and in applications... targets many of the same communications applications as XML... uses both `Python-style indentation` to indicate nesting, and a more compact format - so that `JSON files are valid YAML 1.2`. 
 > is simply a data-representation language,.. integration with other languages allows `Perl parsers`, for example, which can execute Perl code. [wiki](https://en.wikipedia.org/wiki/YAML)
 - https://yaml.org/spec/
 - https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started/
 - https://blog.stackpath.com/yaml/
 
-## Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
+### Virtualization on OS level \ Containerization : [wiki](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BD%D0%B0_%D1%80%D1%96%D0%B2%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%BE%D1%97_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8)
 - https://habr.com/ru/company/virtuozzo/blog/319998/
 - https://gigacloud.ua/blog/navchannja/chomu-kontejneri-ce-majbutne-virtualizacii
 - https://www.bigdataschool.ru/blog/containers-big-data.html
@@ -61,7 +77,7 @@
 - NGINX Ingress Controller - NGINX   https://www.nginx.com/products/nginx-ingress-controller/
 - How it works - NGINX Ingress Controller  https://kubernetes.github.io/ingress-nginx/how-it-works/
 
-### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)
+#### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)
 > Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 
 > We can use Kafka as a __Message Queue or a Messaging System__ but as a distributed streaming platform Kafka has several other usages for stream processing or storing data. Messaging System: a __highly scalable, fault-tolerant and distributed Publish/Subscribe__ messaging system. 
 > In short, Kafka is used for stream processing, __website activity tracking, metrics collection and monitoring, log aggregation, real-time analytics__, CEP, ingesting data into Spark, ingesting data into Hadoop, CQRS, replay messages, error recovery, and guaranteed distributed commit log for in-memory computing... 
@@ -75,7 +91,7 @@
 - https://docs.microsoft.com/en-us/previous-versions/ms834460(v=msdn.10)
 - https://www.paessler.com/manuals/prtg/windows_msmq_queue_length_sensor (PRTG sensor)
 
-### DB (database) monitoring tools : 
+#### DB (database) monitoring tools : 
 - https://www.spotlightcloud.io/
 - NewRelic (`APM` \ `Explorer` )
 - PRTG sensors (`Maps` \ `Libraries` ) 
@@ -113,23 +129,11 @@
 - https://www.youtube.com/watch?v=DXVNpGVEYQ4 ( OpsGenie :tv: timing 02:40 minutes )
 - [Intro to Atlassian's Opsgenie :tv:](https://www.youtube.com/watch?v=prZI-MILa7M) ( timing 33:30 )
 
-#### CMS, Collaboration and Knowledge-sharing  🏫 🀄 🐮 
-- https://en.wikipedia.org/wiki/Redmine
-- Jira Support ( Atlassian ) https://www.atlassian.com/software/jira/service-management
-- https://www.customerzone360.com/topics/customer/articles/441500-kms-vs-cms-what-the-differences.htm 
-
-### Load Balancing / Availability / Robustness / Scaling concenrns
+#### Load Balancing / Availability / Robustness / Scaling concenrns
 - How to Use HAProxy for Load Balancing | Linode  https://www.linode.com/docs/guides/how-to-use-haproxy-for-load-balancing/
 - HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer  http://www.haproxy.org/
 
-### Security concerns / SIEM 
-- https://learn.javascript.ru/csrf
-- https://duo.com/docs/radius
-- https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
-- https://en.wikipedia.org/wiki/Nessus_(software) 
-- https://www.varonis.com/blog/what-is-siem/ 
-
-### devOps / serviceOps  🆒 ⛰️ 🎲 
+### devOps / serviceOps Domain : 🆒 ⛰️ 🎲 
 - [ 15 Metrics for DevOps Success ](https://stackify.com/15-metrics-for-devops-success/)
 - [ 7 DevOps Practices | DevOps Principles ](https://www.perforce.com/blog/vcs/7-devops-practices-outstanding-results)  🕖
 - [ Measuring DevOps ](https://newrelic.com/devops/measuring-devops)

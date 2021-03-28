@@ -21,7 +21,7 @@
 - https://en.wikipedia.org/wiki/Nessus_(software) 
 - https://www.varonis.com/blog/what-is-siem/ 
 
-### theory of SW-DEV : methodology, cases, definitions  🚡 🟩 💫 
+### SoftWare-DEVelopment : methodology, cases, definitions  🚡 🟩 💫 
 - playbook \/ runbook : {
 	`"According to Accenture, a playbook includes` “process workflows, standard operating procedures, and cultural values that shape a consistent response—the play. A playbook reflects a plan; an approach or strategy defining predetermined responses worked out ahead of time.”May 29, 2018", 
 	`"Operations runbooks, often simply called runbooks,` are a set of standardized documents, references, and procedures used to describe common IT tasks. Runbooks are created for the purpose of walking someone through the steps necessary for accomplishing a specific task or troubleshooting a particular issue.May 21, 2020"`,
@@ -34,11 +34,13 @@
 - software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
-#### MSA (Microservices Architecture) vs SOA (Service Oriented App) : 
+#### MSA (Microservices Architecture) vs SOA ( Service-Oriented Application\Architecture [wiki](https://en.wikipedia.org/wiki/Service-oriented_architecture) ) :  🍎  🐱  🏗️ 
 - [Principles Of Microservices - Sam Newman on Vimeo](https://vimeo.com/131632250) 📺 [01:00:43]
 - [ Software Architecture Guide ](https://martinfowler.com/architecture/)
 - [Strangler application on _microservices.io_](https://microservices.io/patterns/refactoring/strangler-application.html)
-- [) 
+- [ StranglerFigApplication ](https://martinfowler.com/bliki/StranglerFigApplication.html) 
+- [What Is Service-Oriented Architecture? | by Software Development Community](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec) 
+- [ )
 
 #### HTTP connection explained : 
   - The _persistent network connection_ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.

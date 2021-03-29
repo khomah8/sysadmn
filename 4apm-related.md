@@ -41,6 +41,7 @@
 - [Strangler application on _microservices.io_](https://microservices.io/patterns/refactoring/strangler-application.html)
 - [ StranglerFigApplication ](https://martinfowler.com/bliki/StranglerFigApplication.html) 
 - [What Is Service-Oriented Architecture? | by Software Development Community](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec) 
+- [ Composite UIs for Microservices - A Primer ](https://jimmybogard.com/composite-uis-for-microservices-a-primer/) 
 - 
 
 #### HTTP connection explained : 

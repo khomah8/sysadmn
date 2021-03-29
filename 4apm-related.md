@@ -35,12 +35,13 @@
 - eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
 #### MSA (Microservices Architecture) vs SOA ( Service-Oriented Application\Architecture [wiki](https://en.wikipedia.org/wiki/Service-oriented_architecture) ) :  🍎  🐱  🏗️ 
-- [Principles Of Microservices - Sam Newman on Vimeo](https://vimeo.com/131632250) 📺 [01:00:43]
 - [ Software Architecture Guide ](https://martinfowler.com/architecture/)
+- [Principles Of Microservices - Sam Newman on Vimeo](https://vimeo.com/131632250) 📺 [01:00:43]
+- [ Sam Newman Building Microservices ](https://samnewman.io/books/building_microservices/), [Sam Newman Monolith To Microservices](https://samnewman.io/books/monolith-to-microservices/) 
 - [Strangler application on _microservices.io_](https://microservices.io/patterns/refactoring/strangler-application.html)
 - [ StranglerFigApplication ](https://martinfowler.com/bliki/StranglerFigApplication.html) 
 - [What Is Service-Oriented Architecture? | by Software Development Community](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec) 
-- [ )
+- 
 
 #### HTTP connection explained : 
   - The _persistent network connection_ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.

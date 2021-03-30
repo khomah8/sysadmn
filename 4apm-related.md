@@ -43,7 +43,9 @@
 - [What Is Service-Oriented Architecture? | by Software Development Community](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec) 
 - [ Composite UIs for Microservices - A Primer ](https://jimmybogard.com/composite-uis-for-microservices-a-primer/) 
 - [State of the Art in Microservices - Adrian Cockcroft @adrianco, Technology Fellow - Battery Ventures, Microxchg Berlin - February 2015 .pdf.](https://microxchg.io/2015/slides/01_08_AdrianCockcroftSlides.pdf)
-- [Adrian Cockcroft - Keynote: Monitoring Microservices, 2015 : attention[16:05].. ](https://vimeo.com/131859226)
+  - [The State of the Art in Microservices by Adrian Cockcroft](https://www.youtube.com/watch?v=pwpxq9-uw_0) 📺 [01:16:25]
+- [Adrian Cockcroft - Keynote: Monitoring Microservices, 2015 : attention-at_16:05..  ](https://vimeo.com/131859226) 📺 
+  - [Monitoring Microservices and Containers: A Challenge by Adrian Cockcroft](https://www.infoq.com/news/2015/06/monitoring-microservices/)
 - [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg) 🇺🇦 
 - 
 

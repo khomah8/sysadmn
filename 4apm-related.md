@@ -53,6 +53,12 @@
 - [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg) 🇺🇦 
 - 
 
+#### NOC (as Network Network Operations Center) : AlerOps  ⏰  :atom:  ⏱️
+- [ Network Operations Center | NOC | IT | Splunk ](https://www.splunk.com/en_us/data-insider/network-operations-center.html#:~:)
+- [What is a Network Operations Center(NOC) - A Detailed Guide](https://www.extnoc.com/network-operations-center/)
+- [ What is a Network Operations Center (NOC)? ](https://alertops.com/network-operations-center/)
+- 
+
 #### HTTP connection explained : 
   - The _persistent network connection_ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.
   - Persistent connections _can improve overall system performance_ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.

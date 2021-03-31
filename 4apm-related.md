@@ -48,6 +48,8 @@
   - [Monitoring Microservices and Containers: A Challenge by Adrian Cockcroft](https://www.infoq.com/news/2015/06/monitoring-microservices/) 
   - [Software Architecture Conference - Monitoring Microservices - A Challenge, 2015 March slides ](https://www.slideshare.net/adriancockcroft/software-architecture-monitoring-microservices-a-challenge) 
   - ["Monitoring Microservices: A Challenge" - Adrian Cockcroft Keynote ](https://www.youtube.com/watch?v=smEuX-Hq6RI) 📺 
+  - [Microservices Workshop All Topics Deck 2016 ,,364 sildes.,, ](https://www.slideshare.net/adriancockcroft/microservices-workshop-all-topics-deck-2016)
+  - https://www.google.com/search?q=domain+driven+design+pdf 
 - [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg) 🇺🇦 
 - 
 

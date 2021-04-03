@@ -132,6 +132,7 @@
 > __Paessler Router Traffic Grapher until version 7__ is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
 - https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
 - https://kb.paessler.com/en/topic/66113-how-can-prtg-send-notifications-to-slack (integration with #Slack)
+- https://kb.paessler.com/en/topic/33-how-can-i-re-brand-and-customize-the-prtg-web-interface-using-css-and-javascript  🖌️ 
 - {practical-task} [Maps design](https://www.paessler.com/manuals/prtg/maps_designer) 
 - {practical-task} [Lib-s design](https://www.paessler.com/manuals/prtg/libraries_step_by_step) 
 
@@ -179,7 +180,7 @@ __SRE satisfies `the DevOps [five] pillars` as follows:__
     - SRE encourages developers and product owners to move quickly by reducing the cost of failure
 4) Leverage `tooling and automation`
     - SREs have a charter to automate manual tasks (called "toil") away 
-5) `Measure everything`
+5) `Measure everything`prtg
     - SRE defines prescriptive ways to measure values
     - SRE fundamentally believes that systems operation is a software problem 
 

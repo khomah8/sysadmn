@@ -47,6 +47,10 @@ TEMP links
 - [Святкування Пасхи католиками і православними у 2021 році | Як визначають дату Великодня та що класти у кошик?](https://kitsman.city/articles/129361/koli-svyatkuyemo-velikden-u-2021-roci-chomu-dati-ci-vidriznyayutsya-u-katolikiv-i-pravoslavnih) 
 - 📚
 
-### movies / series 
-- https://en.wikipedia.org/wiki/After_Earth 📺
+### movies / series  📺 🍺 🧀
+- https://en.wikipedia.org/wiki/After_Earth  🌍
+- [Сериал Острые козырьки 1 - 5 сезон](https://3seriala.net/load/drama/ostrye_kozyrki_2/8-1-0-1382)  🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- [ Сериал Загрузка (2020) Upload смотреть онлайн ](http://seasonvar.ru/serial-25277-Zagruzka_2020.html)  🚦 
 - 
+
+

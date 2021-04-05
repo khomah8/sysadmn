@@ -72,3 +72,5 @@ comparisions:
 #### usecases & presentation 
 - [ 360° Monitoring of Your Microservices : Philipp Krenn on Vimeo 2017 ](https://vimeo.com/234068541) [01:05:00]  📺  [Philipp Krenn](https://xeraa.net/)
     - [ Monitor Your PHP Application with the Elastic Stack ](https://speakerdeck.com/xeraa/monitor-your-php-application-with-the-elastic-stack?)
+- [Monitoring Java applications with Metricbeat and Jolokia](https://www.elastic.co/blog/monitoring-java-applications-with-metricbeat-and-jolokia)
+- 

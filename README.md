@@ -68,3 +68,7 @@ comparisions:
 - https://stackshare.io/stackups/logz-io-vs-splunk-enterprise-vs-logstash
 - https://devops.com/splunk-elk-stack-side-side-comparison/
 - https://www.getapp.com/business-intelligence-analytics-software/a/logz-io/compare/splunk-enterprise/
+
+#### usecases & presentation 
+- [ 360° Monitoring of Your Microservices : Philipp Krenn on Vimeo](https://vimeo.com/234068541) [01:05:00]  📺  [PhK' homepage](https://xeraa.net/)
+    - [ Monitor Your PHP Application with the Elastic Stack ](https://speakerdeck.com/xeraa/monitor-your-php-application-with-the-elastic-stack?)

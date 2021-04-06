@@ -163,6 +163,7 @@
     - [Барух Садогурский — У нас DevOps. Давайте уволим всех тестировщиков](https://www.youtube.com/watch?v=8eH3k4BxV6k)  📺 [46:11]
     - [Measuring DevOps: The Key Metric That Matters - Anders Wallgren](https://www.youtube.com/watch?v=7HBPtoLE2r8)  📺 [29:31]
 - https://www.devops-research.com/research.html 
+- https://dou.ua/lenta/articles/devops-dou-webinar/ { partial transcript } 📺 [01:34:45] 
 - https://system-admins.ru/devops-engineer/ 
 - https://en.wikipedia.org/wiki/Azure_DevOps_Server#:~:text=formerly%20Team%20Foundation%20Server%20(TFS 
 - SRE (concept): { 

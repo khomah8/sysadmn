@@ -21,6 +21,7 @@
 - https://en.wikipedia.org/wiki/Nessus_(software) 
 - https://www.varonis.com/blog/what-is-siem/ 
 - https://en.wikipedia.org/wiki/Let%27s_Encrypt
+- [Sam Newman - SECURING MICROSERVICES | Øredev 2015 on Vimeo](https://vimeo.com/144796652)  📺 [00:39:51]
 - 
 
 ### SoftWare-DEVelopment : methodology, cases, definitions  🚡 🟩 💫 

@@ -20,6 +20,8 @@
 - https://www.watchguard.com/help/docs/help-center/en-US/Content/Integration-Guides/General/duo-security-authentication.html 
 - https://en.wikipedia.org/wiki/Nessus_(software) 
 - https://www.varonis.com/blog/what-is-siem/ 
+- https://en.wikipedia.org/wiki/Let%27s_Encrypt
+- 
 
 ### SoftWare-DEVelopment : methodology, cases, definitions  🚡 🟩 💫 
 - playbook \/ runbook : {

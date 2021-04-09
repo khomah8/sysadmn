@@ -74,3 +74,7 @@ comparisions:
     - [ Monitor Your PHP Application with the Elastic Stack ](https://speakerdeck.com/xeraa/monitor-your-php-application-with-the-elastic-stack?)
 - [Monitoring Java applications with Metricbeat and Jolokia](https://www.elastic.co/blog/monitoring-java-applications-with-metricbeat-and-jolokia)
 - 
+
+#### misc-mix of related 
+- https://bash.cyberciti.biz/guide/Pipes 
+

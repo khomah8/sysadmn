@@ -169,7 +169,8 @@
 - https://www.devops-research.com/research.html 
 - https://dou.ua/lenta/articles/devops-dou-webinar/ { partial transcript } 📺 [01:34:45] 
 - https://system-admins.ru/devops-engineer/ 
-- https://en.wikipedia.org/wiki/Azure_DevOps_Server#:~:text=formerly%20Team%20Foundation%20Server%20(TFS 
+- [ NDC Conferences ](https://ndcconferences.com/)  📺  [ NDC Conferences - YouTube ](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q) 
+- https://en.wikipedia.org/wiki/Azure_DevOps_Server#:~:text=formerly%20Team%20Foundation%20Server%20(TFS) 
 - SRE (concept): { 
   - https://en.wikipedia.org/wiki/Site_reliability_engineering: { 
 

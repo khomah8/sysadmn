@@ -198,5 +198,7 @@ __SRE satisfies `the DevOps [five] pillars` as follows:__
     - https://www.overops.com/blog/devops-vs-sre-whats-the-difference-between-them-and-which-one-are-you/ {2018}
     - https://www.atlassian.com/incident-management/devops/sre
     - https://victorops.com/blog/site-reliability-engineer-sre-roles-and-responsibilities {2019}
+    - [Что такое современное IT, как, почему работает и кто за что отвечает[(https://pastebin.com/JLqvqjmj)
+    - 
 
 }

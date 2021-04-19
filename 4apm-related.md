@@ -142,6 +142,7 @@
 - https://kb.paessler.com/en/topic/33-how-can-i-re-brand-and-customize-the-prtg-web-interface-using-css-and-javascript  🖌️ 
 - {practical-task} [Maps design](https://www.paessler.com/manuals/prtg/maps_designer) 
 - {practical-task} [Lib-s design](https://www.paessler.com/manuals/prtg/libraries_step_by_step) 
+- https://kb.paessler.com/en/topic/32813-what-does-error-code-pexxx-mean  📔 
 
 #### Pagerduty (vs Victorops) vs Opsgenie  🚧 🎵 🚂 
 - [PagerDuty vs Opsgenie | Why PagerDuty?](https://www.pagerduty.com/vs/opsgenie/)

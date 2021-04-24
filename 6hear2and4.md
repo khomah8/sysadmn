@@ -19,6 +19,8 @@ for work condition(s) rythm :  🥁  🔋  🌤️
 - https://soundcloud.com/sharkastic  d&b
 - https://soundcloud.com/slightlydarkerblack  night-techno
 - https://soundcloud.com/suricolbert/sets/lofi-4-studying  calm hip-hop
+- https://soundcloud.com/theperezbrothers/maze-ft-maor-kagan-italian  light mushup 
+- https://soundcloud.com/kapslap/summer-mix-2015  jumping melodic with voice 
 - 
 
 :performing_arts:  :aquarius:  :heart_decoration:  for iMagi(c)nation (LaNgUaGeS) : 

@@ -110,8 +110,8 @@
   - [Kubernetes tutorial — Create deployments using YAML file | by KarthiKeyan Shanmugam](https://karthi-net.medium.com/kubernetes-tutorial-create-deployments-using-yaml-file-90ea901a2f74) 
   - [ Deployments | DOCS ](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
   - [Templating YAML in Kubernetes with real code](https://learnk8s.io/templating-yaml-with-code)
+  - [Kubernetes Deployment Tutorial with YAML - Kubernetes Book](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-deployment-tutorial-example-yaml.html)
 - 
-
 
 #### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)
 > Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 

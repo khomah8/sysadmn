@@ -104,6 +104,8 @@
     - "007. Виртуализация и контейнеризация" - Антон Конвалюк :tv:  https://www.youtube.com/watch?v=YsQAAaNpw6Y
 - NGINX Ingress Controller - NGINX   https://www.nginx.com/products/nginx-ingress-controller/
 - How it works - NGINX Ingress Controller  https://kubernetes.github.io/ingress-nginx/how-it-works/
+- [ Kubernetes for dummies by a dummy | by Tom Glenn ](https://medium.com/@tomglenn91/kubernetes-for-dummies-by-a-dummy-80b67c00214)
+- 
 
 #### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)
 > Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 

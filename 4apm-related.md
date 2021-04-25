@@ -105,6 +105,7 @@
 - NGINX Ingress Controller - NGINX   https://www.nginx.com/products/nginx-ingress-controller/
 - How it works - NGINX Ingress Controller  https://kubernetes.github.io/ingress-nginx/how-it-works/
 - [ Kubernetes for dummies by a dummy | by Tom Glenn ](https://medium.com/@tomglenn91/kubernetes-for-dummies-by-a-dummy-80b67c00214)
+- [Kubernetes/rancher/related ebooks-and-whitepapers](https://rancher.com/ebooks-and-whitepapers/)
 - 
 
 #### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)

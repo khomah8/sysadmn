@@ -51,7 +51,7 @@
   - ["Monitoring Microservices: A Challenge" - Adrian Cockcroft Keynote ](https://www.youtube.com/watch?v=smEuX-Hq6RI) 📺 
   - [Microservices Workshop All Topics Deck 2016 ,,364 sildes.,, ](https://www.slideshare.net/adriancockcroft/microservices-workshop-all-topics-deck-2016)
   - https://www.google.com/search?q=domain+driven+design+pdf 
-- [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg)  🇺🇦  video-records 📺 []   
+- [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg)  🇺🇦  video-records 📺 [DevOps Days Kyiv 2021](https://www.youtube.com/playlist?list=PL_O8YSX8ckfdHmLtsdpKy2oFwTOxe5BRs) {18 videos}    
 - 
 
 #### NOC (as Network Network Operations Center) : AlerOps  ⏰  :atom:  ⏱️

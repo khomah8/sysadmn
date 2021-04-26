@@ -51,7 +51,7 @@
   - ["Monitoring Microservices: A Challenge" - Adrian Cockcroft Keynote ](https://www.youtube.com/watch?v=smEuX-Hq6RI) 📺 
   - [Microservices Workshop All Topics Deck 2016 ,,364 sildes.,, ](https://www.slideshare.net/adriancockcroft/microservices-workshop-all-topics-deck-2016)
   - https://www.google.com/search?q=domain+driven+design+pdf 
-- [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg) 🇺🇦 
+- [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg)  🇺🇦  video-records 📺 []   
 - 
 
 #### NOC (as Network Network Operations Center) : AlerOps  ⏰  :atom:  ⏱️
@@ -107,10 +107,13 @@
 - [ Kubernetes for dummies by a dummy | by Tom Glenn ](https://medium.com/@tomglenn91/kubernetes-for-dummies-by-a-dummy-80b67c00214)
   - [Kubernetes/rancher/related ebooks-and-whitepapers](https://rancher.com/ebooks-and-whitepapers/)
   - [ Intro to Kubernetes and Rancher - 2020-08-06 ](https://www.youtube.com/watch?v=5h1TCrh_hZ0)  📺 [01:30:40]  
-  - [Kubernetes tutorial — Create deployments using YAML file | by KarthiKeyan Shanmugam](https://karthi-net.medium.com/kubernetes-tutorial-create-deployments-using-yaml-file-90ea901a2f74) 
+  - [Kubernetes tutorial — Create deployments using YAML file | by KarthiKeyan Shanmugam](https://karthi-net.medium.com/kubernetes-tutorial-create-deployments-using-yaml-file-90ea901a2f74)
+  - [ Kubernetes - Introduction & key concepts ](https://www.upnxtblog.com/index.php/2017/11/13/kubernetes-platform-intro-key-concepts/) 
   - [ Deployments | DOCS ](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
   - [Templating YAML in Kubernetes with real code](https://learnk8s.io/templating-yaml-with-code)
-  - [Kubernetes Deployment Tutorial with YAML - Kubernetes Book](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-deployment-tutorial-example-yaml.html)
+  - [ Kubernetes Deployment Tutorial with YAML - Kubernetes Book ](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-deployment-tutorial-example-yaml.html)
+  - [kubectl Cheat Sheet | Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+  - 
 - 
 
 #### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)

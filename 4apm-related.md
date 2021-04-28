@@ -24,7 +24,7 @@
 - [ What is swarming? And how does it benefit your IT support? ](https://blog.topdesk.com/en/what-is-swarming#:~:text=Essentially%2C%20swarming%20means%20one%20of,through%20a%20tiered%20support%20model.&text=Instead%20of%20passing%20tickets%20back,until%20the%20ticket%20is%20resolved.)
 - [Swarming vs Tiered Support Models Explained – BMC Software](https://www.bmc.com/blogs/swarming-support-tiered-support-differences/) {2018}
 - [ Swarming vs Tiered Support Model - Which Is Better? | Freshservice ](https://freshservice.com/itsm/three-tier-support-vs-swarming-blog/) {2017}
-- 
+- [Swarming: How a new approach to support can save DevOps teams from 3rd line tickets hell](https://www.slideshare.net/JonHall7/swarming-how-a-new-approach-to-support-can-save-devops-teams-from-3rdline-ticket-hell)  { 40 slides 2018 DevOps SSummit }  🦸  🎧  
 
 #### CMS, Collaboration and Knowledge-sharing  🏫 🀄 🐮 
 - https://en.wikipedia.org/wiki/Redmine

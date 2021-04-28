@@ -54,7 +54,7 @@
 - [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg)  🇺🇦  video-records 📺 [DevOps Days Kyiv 2021](https://www.youtube.com/playlist?list=PL_O8YSX8ckfdHmLtsdpKy2oFwTOxe5BRs) {18 videos}    
 - 
 
-#### NOC (as Network Network Operations Center) : AlerOps  ⏰  :atom:  ⏱️
+#### NOC (as Network Network Operations Center) : Support Team or AlerOps  ⏰  :atom:  ⏱️
 - [ Network Operations Center | NOC | IT | Splunk ](https://www.splunk.com/en_us/data-insider/network-operations-center.html#:~:)
 - [What is a Network Operations Center(NOC) - A Detailed Guide](https://www.extnoc.com/network-operations-center/)
 - [ What is a Network Operations Center (NOC)? ](https://alertops.com/network-operations-center/)
@@ -65,6 +65,7 @@
 	- [_biz_](https://sterlingwoods.com/blog/business-playbook/) 
 	- [bmc](https://www.bmc.com/blogs/operations-runbook/) 
 }
+- [ What is swarming? And how does it benefit your IT support? ](https://blog.topdesk.com/en/what-is-swarming#:~:text=Essentially%2C%20swarming%20means%20one%20of,through%20a%20tiered%20support%20model.&text=Instead%20of%20passing%20tickets%20back,until%20the%20ticket%20is%20resolved.)
 - 
 
 #### HTTP connection explained : 

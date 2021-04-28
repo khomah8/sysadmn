@@ -8,6 +8,23 @@
 - [ ITSM Basics: What Is a Service? | Joe The IT Guy ](https://www.joetheitguy.com/itsm-basics-what-is-a-service/)
 - [What is ITSM? The Beginner's Guide to IT Service Management](https://victorops.com/blog/what-is-itsm-the-beginners-guide-to-it-service-management)
 - [ Thank you | ITSM begineer's guide 2018 ](https://www.manageengine.com/products/service-desk/itsm/thank-you.html)
+- [IT Support Levels Clearly Explained: L1, L2, L3 & More – BMC Software](https://www.bmc.com/blogs/support-levels-level-1-level-2-level-3/) {2019, voiced-by-Amazon-Polly}
+
+### NOC (Network Operations Center) : IT Support Team : AlertOps  ⏰  :atom:  ⏱️
+- [ Network Operations Center | NOC | IT | Splunk ](https://www.splunk.com/en_us/data-insider/network-operations-center.html#:~:)
+- [What is a Network Operations Center(NOC) - A Detailed Guide](https://www.extnoc.com/network-operations-center/)
+- [ What is a Network Operations Center (NOC)? ](https://alertops.com/network-operations-center/)
+- playbook \/ runbook : {
+	`"According to Accenture, a playbook includes` “process workflows, standard operating procedures, and cultural values that shape a consistent response—the play. A playbook reflects a plan; an approach or strategy defining predetermined responses worked out ahead of time.”May 29, 2018", 
+	`"Operations runbooks, often simply called runbooks,` are a set of standardized documents, references, and procedures used to describe common IT tasks. Runbooks are created for the purpose of walking someone through the steps necessary for accomplishing a specific task or troubleshooting a particular issue.May 21, 2020"`,
+	- [fool](https://www.fool.com/the-blueprint/runbook/#:~:text=Runbooks%20are%20often%20confused%20with,runbooks%20and%20personnel%20within%20them.): `While runbooks define individual processes, playbooks deal with overarching responses to larger issues or events and may incorporate multiple runbooks and personnel within them. .....`, ![This security incident playbook incorporates relevant runbook documentation within its workflow](https://m.foolcdn.com/media/the-blueprint/images/Runbooks_02_playbook_process.width-800.png?width=600)
+	- [_biz_](https://sterlingwoods.com/blog/business-playbook/) 
+	- [ bmc ](https://www.bmc.com/blogs/operations-runbook/) 
+}
+- [ What is swarming? And how does it benefit your IT support? ](https://blog.topdesk.com/en/what-is-swarming#:~:text=Essentially%2C%20swarming%20means%20one%20of,through%20a%20tiered%20support%20model.&text=Instead%20of%20passing%20tickets%20back,until%20the%20ticket%20is%20resolved.)
+- [Swarming vs Tiered Support Models Explained – BMC Software](https://www.bmc.com/blogs/swarming-support-tiered-support-differences/) {2018}
+- [ Swarming vs Tiered Support Model - Which Is Better? | Freshservice ](https://freshservice.com/itsm/three-tier-support-vs-swarming-blog/) {2017}
+- 
 
 #### CMS, Collaboration and Knowledge-sharing  🏫 🀄 🐮 
 - https://en.wikipedia.org/wiki/Redmine
@@ -52,22 +69,6 @@
   - [Microservices Workshop All Topics Deck 2016 ,,364 sildes.,, ](https://www.slideshare.net/adriancockcroft/microservices-workshop-all-topics-deck-2016)
   - https://www.google.com/search?q=domain+driven+design+pdf 
 - [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg)  🇺🇦  video-records 📺 [DevOps Days Kyiv 2021](https://www.youtube.com/playlist?list=PL_O8YSX8ckfdHmLtsdpKy2oFwTOxe5BRs) {18 videos}    
-- 
-
-#### NOC (Network Operations Center) : IT Support Team : AlertOps  ⏰  :atom:  ⏱️
-- [ Network Operations Center | NOC | IT | Splunk ](https://www.splunk.com/en_us/data-insider/network-operations-center.html#:~:)
-- [What is a Network Operations Center(NOC) - A Detailed Guide](https://www.extnoc.com/network-operations-center/)
-- [ What is a Network Operations Center (NOC)? ](https://alertops.com/network-operations-center/)
-- playbook \/ runbook : {
-	`"According to Accenture, a playbook includes` “process workflows, standard operating procedures, and cultural values that shape a consistent response—the play. A playbook reflects a plan; an approach or strategy defining predetermined responses worked out ahead of time.”May 29, 2018", 
-	`"Operations runbooks, often simply called runbooks,` are a set of standardized documents, references, and procedures used to describe common IT tasks. Runbooks are created for the purpose of walking someone through the steps necessary for accomplishing a specific task or troubleshooting a particular issue.May 21, 2020"`,
-	- [fool](https://www.fool.com/the-blueprint/runbook/#:~:text=Runbooks%20are%20often%20confused%20with,runbooks%20and%20personnel%20within%20them.): `While runbooks define individual processes, playbooks deal with overarching responses to larger issues or events and may incorporate multiple runbooks and personnel within them. .....`, ![This security incident playbook incorporates relevant runbook documentation within its workflow](https://m.foolcdn.com/media/the-blueprint/images/Runbooks_02_playbook_process.width-800.png?width=600)
-	- [_biz_](https://sterlingwoods.com/blog/business-playbook/) 
-	- [ bmc ](https://www.bmc.com/blogs/operations-runbook/) 
-}
-- [ What is swarming? And how does it benefit your IT support? ](https://blog.topdesk.com/en/what-is-swarming#:~:text=Essentially%2C%20swarming%20means%20one%20of,through%20a%20tiered%20support%20model.&text=Instead%20of%20passing%20tickets%20back,until%20the%20ticket%20is%20resolved.)
-- [Swarming vs Tiered Support Models Explained – BMC Software](https://www.bmc.com/blogs/swarming-support-tiered-support-differences/) {2018}
-- [ Swarming vs Tiered Support Model - Which Is Better? | Freshservice ](https://freshservice.com/itsm/three-tier-support-vs-swarming-blog/) {2017}
 - 
 
 #### HTTP connection explained : 

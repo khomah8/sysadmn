@@ -54,7 +54,7 @@
 - [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg)  🇺🇦  video-records 📺 [DevOps Days Kyiv 2021](https://www.youtube.com/playlist?list=PL_O8YSX8ckfdHmLtsdpKy2oFwTOxe5BRs) {18 videos}    
 - 
 
-#### NOC (as Network Network Operations Center) : Support Team or AlerOps  ⏰  :atom:  ⏱️
+#### NOC (Network Operations Center) : IT Support Team : AlertOps  ⏰  :atom:  ⏱️
 - [ Network Operations Center | NOC | IT | Splunk ](https://www.splunk.com/en_us/data-insider/network-operations-center.html#:~:)
 - [What is a Network Operations Center(NOC) - A Detailed Guide](https://www.extnoc.com/network-operations-center/)
 - [ What is a Network Operations Center (NOC)? ](https://alertops.com/network-operations-center/)

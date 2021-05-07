@@ -46,6 +46,7 @@
 - [ SOLID (объектно-ориентированное программирование) ](https://ru.wikipedia.org/wiki/SOLID_(%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5))
 - [Single-responsibility principle {SRP}](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 - [ Publish–subscribe pattern {Pub/Sub} ](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+- [What does the "triage" tag on Github mean?](https://discourse.julialang.org/t/what-does-the-triage-tag-on-github-mean/8277) 
 - 
 
 #### REST (API) : REpresentational State Transfer 

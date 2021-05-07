@@ -2,6 +2,7 @@
 
 https://dou.ua/lenta/articles/portrait-2020/
 
+
 it's TTL [ time-to-learn ] :  📚 👓 🎧 🎤 
 - Python  https://github.com/khomah8/sysadmn/blob/main/python-class/
 

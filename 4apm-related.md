@@ -111,9 +111,10 @@
 - [How it works - NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/how-it-works/)
 - [ Kubernetes for dummies by a dummy | by Tom Glenn ](https://medium.com/@tomglenn91/kubernetes-for-dummies-by-a-dummy-80b67c00214)
   - [Kubernetes/rancher/related ebooks-and-whitepapers](https://rancher.com/ebooks-and-whitepapers/)
-  - [ Intro to Kubernetes and Rancher - 2020-08-06 ](https://www.youtube.com/watch?v=5h1TCrh_hZ0)  📺 [01:30:40]  { by https://hub.docker.com/u/monachus/ }
   - [Kubernetes tutorial — Create deployments using YAML file | by KarthiKeyan Shanmugam](https://karthi-net.medium.com/kubernetes-tutorial-create-deployments-using-yaml-file-90ea901a2f74)
-  - [ Kubernetes - Introduction & key concepts ](https://www.upnxtblog.com/index.php/2017/11/13/kubernetes-platform-intro-key-concepts/) 
+  - [ Intro to K8s and Rancher - 2020-07-24 ](https://www.youtube.com/watch?v=5y8JKlVLRZM)  📺 [1:39:17]  { Rancher as K8s-management-solution }
+  - [ Intro to Kubernetes and Rancher - 2020-08-06 ](https://www.youtube.com/watch?v=5h1TCrh_hZ0)  📺 [01:30:40]  { by https://hub.docker.com/u/monachus/ }
+  - [Kubernetes - Introduction & key concepts](https://www.upnxtblog.com/index.php/2017/11/13/kubernetes-platform-intro-key-concepts/) 
   - [ Deployments | DOCS ](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
   - [Templating YAML in Kubernetes with real code](https://learnk8s.io/templating-yaml-with-code)
   - [ Kubernetes Deployment Tutorial with YAML - Kubernetes Book ](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-deployment-tutorial-example-yaml.html)

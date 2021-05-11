@@ -3,6 +3,7 @@
 - https://www.tutorialspoint.com/powershell/
 - https://www.guru99.com/powershell-tutorial.html
 - https://github.com/PowerShell/PowerShell
+- [ Back to Basics: The PowerShell For Loop ](https://adamtheautomator.com/powershell-for-loop/) 
 - [ Make Your Computer Talk With Powershell! ](https://www.instructables.com/Make-your-computer-talk-with-powershell/)
 - 
 

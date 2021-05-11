@@ -1,10 +1,10 @@
 ## powerShell
 
 - https://www.tutorialspoint.com/powershell/
-
 - https://www.guru99.com/powershell-tutorial.html
-
 - https://github.com/PowerShell/PowerShell
+- [ Make Your Computer Talk With Powershell! ](https://www.instructables.com/Make-your-computer-talk-with-powershell/)
+- 
 
 ### Cmdlets are different from commands in other command-shell environments in the following manners −
 

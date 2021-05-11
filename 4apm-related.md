@@ -113,6 +113,7 @@
   - [Kubernetes/rancher/related ebooks-and-whitepapers](https://rancher.com/ebooks-and-whitepapers/)
   - [Kubernetes tutorial — Create deployments using YAML file | by KarthiKeyan Shanmugam](https://karthi-net.medium.com/kubernetes-tutorial-create-deployments-using-yaml-file-90ea901a2f74)
   - [ Intro to K8s and Rancher - 2020-07-24 ](https://www.youtube.com/watch?v=5y8JKlVLRZM)  📺 [1:39:17]  { Rancher as K8s-management-solution }
+  - [Kustomize - Kubernetes native configuration management](https://kustomize.io/)  { built-into kubectl_1.14+ }
   - [ Intro to Kubernetes and Rancher - 2020-08-06 ](https://www.youtube.com/watch?v=5h1TCrh_hZ0)  📺 [01:30:40]  { by https://hub.docker.com/u/monachus/ }
   - [Kubernetes - Introduction & key concepts](https://www.upnxtblog.com/index.php/2017/11/13/kubernetes-platform-intro-key-concepts/) 
   - [ Deployments | DOCS ](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)

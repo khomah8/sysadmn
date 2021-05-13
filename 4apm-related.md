@@ -120,6 +120,7 @@
   - [Templating YAML in Kubernetes with real code](https://learnk8s.io/templating-yaml-with-code)
   - [ Kubernetes Deployment Tutorial with YAML - Kubernetes Book ](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-deployment-tutorial-example-yaml.html)
   - [kubectl Cheat Sheet | Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+  - [ SUSE & Rancher Community ](https://community.suse.com/feed)  🧑‍🤝‍🧑 📖 📽️ 
   - 
 - 
 

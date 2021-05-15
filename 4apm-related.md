@@ -121,11 +121,12 @@
   - [ Kubernetes Deployment Tutorial with YAML - Kubernetes Book ](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-deployment-tutorial-example-yaml.html)
   - [kubectl Cheat Sheet | Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
   - [ SUSE & Rancher Community ](https://community.suse.com/feed)  🧑‍🤝‍🧑 📖 📽️ 
-  - 
+  - { Rancher Labs }  📺 channel 🌄
+    - [ Up and Running: K3s - Session One ](https://www.youtube.com/watch?v=IzhxSKbAHLs&) [54:56] 
 - 
 
 #### Apache Kafka : [wiki](https://en.wikipedia.org/wiki/Apache_Kafka); [GitHub](https://github.com/apache/kafka)
-> Apache Kafka is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 
+> Apache Kafka is an open-source stream-processing software platform developed by the Apache Software F:oundation, written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library. Kafka uses a binary TCP-based protocol... 
 > We can use Kafka as a __Message Queue or a Messaging System__ but as a distributed streaming platform Kafka has several other usages for stream processing or storing data. Messaging System: a __highly scalable, fault-tolerant and distributed Publish/Subscribe__ messaging system. 
 > In short, Kafka is used for stream processing, __website activity tracking, metrics collection and monitoring, log aggregation, real-time analytics__, CEP, ingesting data into Spark, ingesting data into Hadoop, CQRS, replay messages, error recovery, and guaranteed distributed commit log for in-memory computing... 
 > Kafka provides a __framework for storing, reading and analysing streaming data__... was originally created at LinkedIn, where it played a part in __analysing the connections between their millions of professional users__ in order to build networks between people.

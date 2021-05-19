@@ -47,6 +47,7 @@
 - [Single-responsibility principle {SRP}](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 - [ Publish–subscribe pattern {Pub/Sub} ](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 - [What does the "triage" tag on Github mean?](https://discourse.julialang.org/t/what-does-the-triage-tag-on-github-mean/8277) 
+- [ Jira Training | for Beginners | Jira Course | Intellipaat ](https://www.youtube.com/watch?v=uM_m6EzMg3k)  📺 [36:08] 
 - 
 
 #### REST (API) : REpresentational State Transfer 

@@ -166,7 +166,11 @@
 - {practical-task} [Lib-s design](https://www.paessler.com/manuals/prtg/libraries_step_by_step) 
 - https://kb.paessler.com/en/topic/32813-what-does-error-code-pexxx-mean  📔 
 - _prtg_sensor-probes_interval-check:_ (`/sensors.htm?columns=probe,device,name,type,interval,checkbox&filter_type=@sub(wmi)&filter_type=@sub(Windows)&sortby=interval&count=*&id=%id_of_probe%`) 
-- [ PRTG Manual | Glossary ](https://www.paessler.com/manuals/prtg/glossary)  📑 
+- **[ PRTG Manual | Glossary ](https://www.paessler.com/manuals/prtg/glossary)**  📑 
+- Windows-related (WMI services) issues:
+  - [What are the most common errors when monitoring WMI?](https://kb.paessler.com/en/topic/1073-what-are-the-most-common-errors-when-monitoring-wmi) 
+  - [ My WMI sensors don't work. What can I do? ](https://kb.paessler.com/en/topic/1043-my-wmi-sensors-don-t-work-what-can-i-do) 
+- 
 
 #### Pagerduty (vs Victorops) vs Opsgenie  🚧 🎵 🚂 
 - [PagerDuty vs Opsgenie | Why PagerDuty?](https://www.pagerduty.com/vs/opsgenie/)

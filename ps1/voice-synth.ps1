@@ -1,7 +1,8 @@
 # example with code 
 Add-Type -AssemblyName System.Speech
 $synth = New-Object -TypeName System.Speech.Synthesis.SpeechSynthesizer
-# as in _____ and https://docs.microsoft.com/en-us/uwp/api/windows.media.speechsynthesis.speechsynthesizer?view=winrt-19041 
+# as in _____, https://pmckibbins.wordpress.com/2013/01/21/powershell-text-to-speech/ 
+# and https://docs.microsoft.com/en-us/uwp/api/windows.media.speechsynthesis.speechsynthesizer?view=winrt-19041 
 $synth.Speak('hello');
 # test voice speaking 
 for ($num = 1 ; $num -le 3 ; $num++ ) {

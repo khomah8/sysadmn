@@ -143,9 +143,7 @@
 #### DB (database) [and other items] monitoring tools : 
 - https://www.spotlightcloud.io/
 - NewRelic (`APM` \ `Explorer` )
-- PRTG sensors (`Maps` \ `Libraries` ) 
-  - _prtg_sensor-probes_interval-check:_
-	/sensors.htm?columns=probe,device,name,type,interval,checkbox&filter_type=@sub(wmi)&filter_type=@sub(Windows)&sortby=interval&count=*&id=%id_of_probe%` 
+- PRTG sensors (`Maps` \ `Libraries` \ `MS-SQL` ) 
 - https://www.sqlskills.com/sql-server-resources/
 - https://aboutsqlserver.com/
 - deadlock mssql  ⚾  
@@ -167,6 +165,7 @@
 - {practical-task} [Maps design](https://www.paessler.com/manuals/prtg/maps_designer) 
 - {practical-task} [Lib-s design](https://www.paessler.com/manuals/prtg/libraries_step_by_step) 
 - https://kb.paessler.com/en/topic/32813-what-does-error-code-pexxx-mean  📔 
+- _prtg_sensor-probes_interval-check:_ (`/sensors.htm?columns=probe,device,name,type,interval,checkbox&filter_type=@sub(wmi)&filter_type=@sub(Windows)&sortby=interval&count=*&id=%id_of_probe%`) 
 
 #### Pagerduty (vs Victorops) vs Opsgenie  🚧 🎵 🚂 
 - [PagerDuty vs Opsgenie | Why PagerDuty?](https://www.pagerduty.com/vs/opsgenie/)

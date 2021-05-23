@@ -140,10 +140,12 @@
 - https://docs.microsoft.com/en-us/previous-versions/ms834460(v=msdn.10)
 - https://www.paessler.com/manuals/prtg/windows_msmq_queue_length_sensor (PRTG sensor)
 
-#### DB (database) monitoring tools : 
+#### DB (database) [and other items] monitoring tools : 
 - https://www.spotlightcloud.io/
 - NewRelic (`APM` \ `Explorer` )
 - PRTG sensors (`Maps` \ `Libraries` ) 
+  - _prtg_sensor-probes_interval-check:_
+	/sensors.htm?columns=probe,device,name,type,interval,checkbox&filter_type=@sub(wmi)&filter_type=@sub(Windows)&sortby=interval&count=*&id=%id_of_probe%` 
 - https://www.sqlskills.com/sql-server-resources/
 - https://aboutsqlserver.com/
 - deadlock mssql  ⚾  

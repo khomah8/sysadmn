@@ -166,6 +166,7 @@
 - {practical-task} [Lib-s design](https://www.paessler.com/manuals/prtg/libraries_step_by_step) 
 - https://kb.paessler.com/en/topic/32813-what-does-error-code-pexxx-mean  📔 
 - _prtg_sensor-probes_interval-check:_ (`/sensors.htm?columns=probe,device,name,type,interval,checkbox&filter_type=@sub(wmi)&filter_type=@sub(Windows)&sortby=interval&count=*&id=%id_of_probe%`) 
+- [ PRTG Manual | Glossary ](https://www.paessler.com/manuals/prtg/glossary)  📑 
 
 #### Pagerduty (vs Victorops) vs Opsgenie  🚧 🎵 🚂 
 - [PagerDuty vs Opsgenie | Why PagerDuty?](https://www.pagerduty.com/vs/opsgenie/)

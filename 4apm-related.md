@@ -160,11 +160,11 @@
 #### PRTG Network Monitor : [wiki](https://en.wikipedia.org/wiki/PRTG_Network_Monitor)  🎹 💚 🎺 
 > __Paessler Router Traffic Grapher until version 7__ is an agentless network monitoring software from Paessler AG. PRTG 100 is available for both personal and commercial use for free, but is limited to monitoring 100 sensors. If you want to monitor more sensors, you need one of the Commercial Editions. Our licensing model is based on the number of sensors and core server installations.  
 - https://www.paessler.com/manuals/prtg/introduction_monitoring_with_prtg 
-- https://kb.paessler.com/en/topic/66113-how-can-prtg-send-notifications-to-slack (integration with #Slack)
+- https://kb.paessler.com/en/topic/66113-how-can-prtg-send-notifications-to-slack (integration with **#Slack**)
 - https://kb.paessler.com/en/topic/33-how-can-i-re-brand-and-customize-the-prtg-web-interface-using-css-and-javascript  🖌️ 
 - {practical-task} [Maps design](https://www.paessler.com/manuals/prtg/maps_designer) 
-- {practical-task} [Lib-s design](https://www.paessler.com/manuals/prtg/libraries_step_by_step) 
-- https://kb.paessler.com/en/topic/32813-what-does-error-code-pexxx-mean  📔 
+- {practical-task} [Libraries design](https://www.paessler.com/manuals/prtg/libraries_step_by_step) 
+- [ What does error code **PExxx** mean? ](https://kb.paessler.com/en/topic/32813-what-does-error-code-pexxx-mean)  📔 
 - _prtg_sensor-probes_interval-check:_ (`/sensors.htm?columns=probe,device,name,type,interval,checkbox&filter_type=@sub(wmi)&filter_type=@sub(Windows)&sortby=interval&count=*&id=%id_of_probe%`) 
 - **[ PRTG Manual | Glossary ](https://www.paessler.com/manuals/prtg/glossary)**  📑 
 - Windows-related (WMI services) issues:

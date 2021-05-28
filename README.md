@@ -36,7 +36,6 @@ tagged: #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #ap
 - FrontEnd applications
 - BackEnd applications
 - Orchestration applications
-- other?
 
 ### New Relic One (VS other services)
 > `New Relic` is a SaaS platform, while `AppDynamics` and `Dynatrace` offer [full SaaS, on-prem, and hybrid installation options] 
@@ -59,6 +58,8 @@ tagged: #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #ap
 - The open-source ELK Stack platform ([on Elastic](https://www.elastic.co/webinars/introduction-elk-stack))
 - [Hosted Elasticsearch](https://aws.amazon.com/elasticsearch-service/) (AWS) : [installing ELK on Ubuntu](https://logz.io/learn/complete-guide-elk-stack/#installing-elk), accessing by SSH and TCP 5601 (Kibana) 
 - AI-powered ELK on an enterprise-grade platform ([on Logz.io](https://logz.io/platform/))
+
+[ Monitoring Applications with Elasticsearch and Elastic APM ](https://www.elastic.co/blog/monitoring-applications-with-elasticsearch-and-elastic-apm)  🏹 ♦️ ♨️
 
 usage of Kibana [query]: 
 - [ Query string query | Elasticsearch Guide [7.13] ](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html?) 

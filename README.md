@@ -61,7 +61,7 @@ tagged: #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #ap
 
 - usage of Kibana [logs-related]: 
   - [ Query string query | Elasticsearch Guide [7.13] ](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html?) 
-  - [Free on-demand Elasticsearch and Kibana Training](https://www.elastic.co/training/free) 
+  - [Free on-demand Elasticsearch and Kibana Training](https://www.elastic.co/training/free) [ \Quick Starts \ How-to \ Fundamentals sections ]
 
 * [SPLUNK](https://www.splunk.com) { forwarder --> indexer --> search head ; uses its own [Splunk Search Processing Language (SPL)](https://www.splunk.com/en_us/resources/search-processing-language.html) which supports the search pipeline - consecutive commands are chained together using a pipe character }
 

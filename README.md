@@ -61,7 +61,7 @@ tagged: #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #ap
 
 [ Monitoring Applications with Elasticsearch and Elastic APM ](https://www.elastic.co/blog/monitoring-applications-with-elasticsearch-and-elastic-apm)  🏹 ♦️ ♨️
 
-usage of Kibana [query]: 
+- usage of Kibana [logs-related]: 
   - [ Query string query | Elasticsearch Guide [7.13] ](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html?) 
   
 

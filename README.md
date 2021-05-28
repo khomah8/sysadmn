@@ -60,6 +60,10 @@ tagged: #app-monitoring-task #app-monitoring-tools #app-monitoring-framework #ap
 - [Hosted Elasticsearch](https://aws.amazon.com/elasticsearch-service/) (AWS) : [installing ELK on Ubuntu](https://logz.io/learn/complete-guide-elk-stack/#installing-elk), accessing by SSH and TCP 5601 (Kibana) 
 - AI-powered ELK on an enterprise-grade platform ([on Logz.io](https://logz.io/platform/))
 
+usage of Kibana [query]: 
+- [ Query string query | Elasticsearch Guide [7.13] ](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html?) 
+- 
+
 * [SPLUNK](https://www.splunk.com) { forwarder --> indexer --> search head ; uses its own [Splunk Search Processing Language (SPL)](https://www.splunk.com/en_us/resources/search-processing-language.html) which supports the search pipeline - consecutive commands are chained together using a pipe character }
 
 > __ELK Stack__ provides `role-based security` as a separate paid tool. __Splunk and managed-ELK services__ offer `user management` out of the box with user auditing included.

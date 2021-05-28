@@ -1,4 +1,4 @@
-## Application Performance M(onitoring | anagement) [APM] [wiki](https://en.wikipedia.org/wiki/Application_performance_management)
+## Application Performance M(onitoring|anagement) [APM] [wiki](https://en.wikipedia.org/wiki/Application_performance_management)
 
 related to: devOps, serviceOps, etc. 
 

@@ -50,7 +50,7 @@
 - [ Jira Training | for Beginners | Jira Course | Intellipaat ](https://www.youtube.com/watch?v=uM_m6EzMg3k)  📺 [36:08] 
 - 
 
-#### REST (API) : REpresentational State Transfer 
+##### REST (API) : REpresentational State Transfer 
 - software architectural style that defines a set of constraints to be used for creating Web services [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - eng [Introduction to REST API - RESTful Web Services @Nov 14, 2019](https://www.springboottutorial.com/introduction-to-rest-api) / rus [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
@@ -73,7 +73,8 @@
 - [ devopsdays ORG ](https://devopsdays.org/) : [Kyiv-2021 devOpsDays logo](https://d33wubrfki0l68.cloudfront.net/e0d20bfdd37623cecb0a03cfdb9dca0d935aeb99/98450/events/2021-kyiv/logo-square.jpg)  🇺🇦  video-records 📺 [DevOps Days Kyiv 2021](https://www.youtube.com/playlist?list=PL_O8YSX8ckfdHmLtsdpKy2oFwTOxe5BRs) {18 videos}    
 - 
 
-#### HTTP connection explained : 
+#### HTTP(S) protocol related : 🍝 🉑 🕸️ 
+##### connection types : 
   - The _persistent network connection_ allows the client and server to send/receive multiple HTTP requests/responses without opening a new connection for every single request/response pair.
   - Persistent connections _can improve overall system performance_ by eliminating the need to send additional TCP/IP packets for establishing and closing the network connection before/after each request.
   - The connection is _persistent by default for HTTP/1.1__ clients. _For HTTP/1.0 connections_, you need to explicitly indicate that you want a persistent connection by adding the `"Connection: keep-alive"` header.
@@ -84,6 +85,10 @@
 - https://reqbin.com/Article/Connection
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
 
+##### messages headers :
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- 
+
 #### JSON (objects / documents) : (JavaScript Object Notation) 
 > an open standard file format, and data interchange format, uses human-readable text to store and transmit data objects consisting of `attribute–value pairs` and `array data` types (or any other serializable value) [wiki](https://en.wikipedia.org/wiki/JSON)
 - https://www.json.org/json-en.html
@@ -92,7 +97,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON 
 - [ECMAScript&reg; 2021 Language Specification](https://tc39.es/ecma262/)
 
-#### YAML (language) : (a recursive acronym for "YAML Ain't Markup Language") 
+##### YAML (language) : (a recursive acronym for "YAML Ain't Markup Language") 
 > human-readable data-serialization language, commonly used for configuration files and in applications... targets many of the same communications applications as XML... uses both `Python-style indentation` to indicate nesting, and a more compact format - so that `JSON files are valid YAML 1.2`. 
 > is simply a data-representation language,.. integration with other languages allows `Perl parsers`, for example, which can execute Perl code. [wiki](https://en.wikipedia.org/wiki/YAML)
 - https://yaml.org/spec/

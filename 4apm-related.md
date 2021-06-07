@@ -86,7 +86,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive
 
 ##### messages headers :
-- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) : set of Client Hints that aim to provide developers with the ability to perform agent-based content negotiation when necessary, while avoiding the historical baggage and passive fingerprinting surface exposed by the venerable User-Agent header 
 - 
 
 #### JSON (objects / documents) : (JavaScript Object Notation) 

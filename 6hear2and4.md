@@ -21,6 +21,7 @@ for work condition(s) rythm :  🥁  🔋  🌤️
 - https://soundcloud.com/suricolbert/sets/lofi-4-studying  calm hip-hop
 - https://soundcloud.com/theperezbrothers/maze-ft-maor-kagan-italian  light mushup 
 - https://soundcloud.com/kapslap/summer-mix-2015  jumping melodic with voice 
+- https://soundcloud.com/crazy-ear-luckeys/earth-revenge-original-mix  electro jumping voices 
 - 
 
 :performing_arts:  :aquarius:  :heart_decoration:  for iMagi(c)nation (LaNgUaGeS) : 

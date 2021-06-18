@@ -89,12 +89,13 @@
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) : set of Client Hints that aim to provide developers with the ability to perform agent-based content negotiation when necessary, while avoiding the historical baggage and passive fingerprinting surface exposed by the venerable User-Agent header 
 - 
 
-#### web-servers  👸  🐧  🦷 
+#### web-servers :  👸  🐧  🦷 
 - [Usage Survey of Web Servers broken down by Ranking](https://w3techs.com/technologies/cross/web_server/ranking) 📆 2021 
 - [ Nginx Vs Apache: Nginx Basic Architecture and Scalability 2013 ](https://www.thegeekstuff.com/2013/11/nginx-vs-apache/)
 - [Nginx vs Apache: Which Web Server Is the Best? (2021 Edition)](https://kinsta.com/blog/nginx-vs-apache/) 
 - [ NGINX vs Apache: Head to Head Comparison 2021 ](https://hackr.io/blog/nginx-vs-apache)
 - [Scaling WordPress: Apache vs Nginx vs Apache+Nginx - Scale Dynamix 2020](https://scaledynamix.com/blog/scaling-wordpress-apache-vs-nginx-vs-apachenginx/)
+- [ The Architecture of Open Source Applications (Volume 2): nginx ](https://www.aosabook.org/en/nginx.html)
 - 
 
 

@@ -93,6 +93,7 @@
 - [ Nginx Vs Apache: Nginx Basic Architecture and Scalability 2013 ](https://www.thegeekstuff.com/2013/11/nginx-vs-apache/)
 - [Nginx vs Apache: Which Web Server Is the Best? (2021 Edition)](https://kinsta.com/blog/nginx-vs-apache/) 
 - [ NGINX vs Apache: Head to Head Comparison 2021 ](https://hackr.io/blog/nginx-vs-apache)
+- [Scaling WordPress: Apache vs Nginx vs Apache+Nginx - Scale Dynamix 2020](https://scaledynamix.com/blog/scaling-wordpress-apache-vs-nginx-vs-apachenginx/)
 - 
 
 

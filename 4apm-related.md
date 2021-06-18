@@ -89,6 +89,12 @@
 - [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/) : set of Client Hints that aim to provide developers with the ability to perform agent-based content negotiation when necessary, while avoiding the historical baggage and passive fingerprinting surface exposed by the venerable User-Agent header 
 - 
 
+#### web-servers  👸  🐧  🦷 
+- [ Nginx Vs Apache: Nginx Basic Architecture and Scalability 2013 ](https://www.thegeekstuff.com/2013/11/nginx-vs-apache/)
+- [Nginx vs Apache: Which Web Server Is the Best? (2021 Edition)](https://kinsta.com/blog/nginx-vs-apache/) 
+- 
+
+
 #### JSON (objects / documents) : (JavaScript Object Notation) 
 > an open standard file format, and data interchange format, uses human-readable text to store and transmit data objects consisting of `attribute–value pairs` and `array data` types (or any other serializable value) [wiki](https://en.wikipedia.org/wiki/JSON)
 - https://www.json.org/json-en.html

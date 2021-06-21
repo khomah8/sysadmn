@@ -185,6 +185,7 @@
 - Windows-related (WMI services) issues:
   - [What are the most common errors when monitoring WMI?](https://kb.paessler.com/en/topic/1073-what-are-the-most-common-errors-when-monitoring-wmi) 
   - [ My WMI sensors don't work. What can I do? ](https://kb.paessler.com/en/topic/1043-my-wmi-sensors-don-t-work-what-can-i-do) 
+- **[Top 5 most frequent challenges sysadmins face](https://blog.paessler.com/top-5-most-frequent-challenges-admins-are-faced-with)  🤖  🎺  📝 
 - 
 
 #### Pagerduty (vs Victorops) vs Opsgenie  🚧 🎵 🚂 

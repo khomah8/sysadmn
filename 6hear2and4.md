@@ -13,6 +13,7 @@ for light mood :  :sunny:  :milky_way:  :rainbow:
 - https://soundcloud.com/irish-cream/sets/2002-irish-cream
 - https://soundcloud.com/trychi-ponedilok
 - https://soundcloud.com/gurt_astarta
+- [Asia 4k - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=2_kAzyaX7SU) [1;00;44]  🚡  ✈️  ⛲ 
 - 
 
 for work condition(s) rythm :  🥁  🔋  🌤️  

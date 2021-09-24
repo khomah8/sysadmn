@@ -3,6 +3,7 @@
 IT-series : 💻 🖱️ 🖥️ 
 - https://soundcloud.com/doupodcast
 - https://soundcloud.com/podlodka
+    - https://soundcloud.com/podlodka/podlodka-226-vtoroe-grazhdanstvo 
 - 
 
 chunks:

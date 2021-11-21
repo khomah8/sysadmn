@@ -5,7 +5,7 @@ such as
 - https://reddit.com
 - https://stackoverflow.com
 - https://superuser.com 
-- etc 
+- 
 
 
 ### theory of SW-DEV : methodology, cases, terms, definitions  🚡 🟩 💫 
